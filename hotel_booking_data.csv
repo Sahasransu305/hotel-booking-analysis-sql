@@ -1,0 +1,1001 @@
+Booking_ID,Hotel_Type,Check_In_Date,Stay_Duration,Room_Type,Num_Guests,Country,Meal_Plan,Booking_Status,Lead_Time,Deposit_Type,Daily_Rate,Total_Cost
+BK1000,Resort Hotel,2023-01-01,2,Suite,4,Saint Kitts and Nevis,HB,Confirmed,21,Refundable,423.93,2869.71
+BK1001,City Hotel,2023-01-02,13,Double,3,Antigua and Barbuda,No Meal,No Show,23,Non Refundable,488.01,4525.31
+BK1002,Resort Hotel,2023-01-03,2,Single,3,Sudan,FB,Confirmed,32,No Deposit,305.86,625.9
+BK1003,Resort Hotel,2023-01-04,12,Family,4,Cote d'Ivoire,BB,Canceled,189,Non Refundable,431.86,978.21
+BK1004,City Hotel,2023-01-05,8,Suite,2,Mozambique,FB,No Show,167,Refundable,484.28,673.59
+BK1005,Resort Hotel,2023-01-06,8,Family,4,Fiji,HB,No Show,21,No Deposit,301.05,3192.78
+BK1006,Resort Hotel,2023-01-07,6,Double,4,Fiji,HB,No Show,2,Non Refundable,478.84,4328.63
+BK1007,City Hotel,2023-01-08,10,Double,5,Isle of Man,HB,No Show,90,Refundable,88.99,3402.97
+BK1008,City Hotel,2023-01-09,11,Suite,4,Vanuatu,FB,Canceled,165,Refundable,375.42,3314.11
+BK1009,City Hotel,2023-01-10,9,Suite,5,Moldova,FB,Confirmed,250,No Deposit,176.36,4283.03
+BK1010,Resort Hotel,2023-01-11,5,Family,2,Singapore,BB,No Show,265,Refundable,62.36,4021.62
+BK1011,City Hotel,2023-01-12,4,Family,4,Lithuania,BB,Canceled,116,No Deposit,272.52,4982.84
+BK1012,Resort Hotel,2023-01-13,9,Family,1,Oman,FB,Canceled,267,No Deposit,339.97,266.0
+BK1013,City Hotel,2023-01-14,9,Suite,1,Indonesia,BB,Confirmed,54,No Deposit,97.23,1912.75
+BK1014,City Hotel,2023-01-15,2,Suite,1,Thailand,BB,Confirmed,197,Refundable,484.2,2810.25
+BK1015,City Hotel,2023-01-16,9,Suite,1,Swaziland,FB,Canceled,229,Refundable,112.21,1350.05
+BK1016,Resort Hotel,2023-01-17,14,Suite,2,Greenland,FB,No Show,228,Refundable,304.09,4494.46
+BK1017,City Hotel,2023-01-18,5,Suite,3,Zambia,No Meal,Canceled,299,No Deposit,115.12,4758.72
+BK1018,Resort Hotel,2023-01-19,11,Suite,2,Chad,BB,Canceled,141,Non Refundable,425.99,494.0
+BK1019,City Hotel,2023-01-20,1,Single,2,Monaco,No Meal,Canceled,9,Non Refundable,198.24,4707.6
+BK1020,Resort Hotel,2023-01-21,6,Single,1,Marshall Islands,No Meal,Canceled,74,Refundable,126.34,4582.41
+BK1021,Resort Hotel,2023-01-22,14,Single,2,Cape Verde,HB,Canceled,130,Non Refundable,191.37,3678.03
+BK1022,City Hotel,2023-01-23,9,Single,2,Japan,FB,Canceled,186,Refundable,249.87,572.82
+BK1023,City Hotel,2023-01-24,6,Suite,3,Dominica,BB,Canceled,249,Refundable,210.42,175.22
+BK1024,City Hotel,2023-01-25,8,Suite,4,Burkina Faso,FB,No Show,227,Non Refundable,64.07,2094.72
+BK1025,City Hotel,2023-01-26,5,Single,3,Micronesia,HB,Canceled,212,No Deposit,140.61,2965.31
+BK1026,Resort Hotel,2023-01-27,7,Double,2,Tanzania,No Meal,No Show,92,Non Refundable,447.65,2219.36
+BK1027,City Hotel,2023-01-28,9,Family,1,Madagascar,HB,Canceled,266,Refundable,390.85,4091.1
+BK1028,Resort Hotel,2023-01-29,14,Suite,5,Senegal,FB,Canceled,204,Refundable,321.27,1305.33
+BK1029,City Hotel,2023-01-30,3,Double,4,Bahrain,FB,Canceled,231,No Deposit,310.03,258.26
+BK1030,Resort Hotel,2023-01-31,3,Single,4,Bangladesh,FB,Confirmed,222,Refundable,62.39,3860.14
+BK1031,Resort Hotel,2023-02-01,14,Family,5,Gambia,No Meal,No Show,100,No Deposit,120.75,4468.67
+BK1032,Resort Hotel,2023-02-02,11,Family,1,Martinique,No Meal,No Show,73,Refundable,133.22,3338.25
+BK1033,Resort Hotel,2023-02-03,13,Family,1,Mexico,No Meal,Canceled,120,Non Refundable,386.23,1306.37
+BK1034,City Hotel,2023-02-04,10,Double,4,Hungary,No Meal,Canceled,208,No Deposit,310.07,2597.75
+BK1035,City Hotel,2023-02-05,3,Suite,3,Chile,No Meal,No Show,266,Refundable,477.73,4979.16
+BK1036,City Hotel,2023-02-06,6,Double,2,Cayman Islands,HB,No Show,292,Non Refundable,301.63,1994.02
+BK1037,City Hotel,2023-02-07,14,Family,1,Benin,BB,Confirmed,186,Refundable,137.5,4513.52
+BK1038,City Hotel,2023-02-08,8,Single,1,Myanmar,HB,No Show,189,Non Refundable,72.42,552.68
+BK1039,City Hotel,2023-02-09,14,Suite,2,Pitcairn Islands,BB,Canceled,39,Non Refundable,144.8,2937.9
+BK1040,City Hotel,2023-02-10,11,Single,2,Guernsey,No Meal,No Show,280,No Deposit,166.73,3770.21
+BK1041,City Hotel,2023-02-11,13,Double,3,Egypt,No Meal,Canceled,11,Refundable,419.02,1634.81
+BK1042,City Hotel,2023-02-12,6,Family,2,Malawi,BB,Confirmed,126,Non Refundable,256.55,2619.33
+BK1043,City Hotel,2023-02-13,7,Single,4,Somalia,BB,No Show,16,No Deposit,399.79,2761.99
+BK1044,Resort Hotel,2023-02-14,15,Single,4,Marshall Islands,FB,Canceled,170,No Deposit,382.12,3224.38
+BK1045,City Hotel,2023-02-15,5,Double,4,Mauritania,FB,Canceled,48,Refundable,349.8,4664.47
+BK1046,City Hotel,2023-02-16,9,Double,4,Norfolk Island,FB,No Show,110,Refundable,304.95,4908.54
+BK1047,Resort Hotel,2023-02-17,4,Double,1,India,No Meal,Canceled,281,Refundable,458.55,3636.52
+BK1048,Resort Hotel,2023-02-18,1,Single,5,Paraguay,No Meal,Confirmed,268,Refundable,95.27,1642.53
+BK1049,Resort Hotel,2023-02-19,15,Double,3,Wallis and Futuna,No Meal,No Show,251,No Deposit,471.04,4154.62
+BK1050,Resort Hotel,2023-02-20,12,Suite,5,Bosnia and Herzegovina,BB,Canceled,235,Non Refundable,123.3,3334.99
+BK1051,City Hotel,2023-02-21,10,Suite,2,French Southern Territories,BB,Canceled,66,No Deposit,428.64,4081.6
+BK1052,Resort Hotel,2023-02-22,3,Single,5,Belarus,HB,Canceled,110,Non Refundable,325.03,3954.71
+BK1053,Resort Hotel,2023-02-23,7,Suite,2,Mali,No Meal,Confirmed,289,Non Refundable,368.24,1512.35
+BK1054,City Hotel,2023-02-24,11,Family,3,Croatia,HB,Canceled,173,Refundable,491.76,1308.64
+BK1055,Resort Hotel,2023-02-25,6,Suite,1,Botswana,HB,Confirmed,225,No Deposit,294.72,3850.35
+BK1056,City Hotel,2023-02-26,8,Suite,2,Canada,BB,Confirmed,188,No Deposit,178.61,3814.97
+BK1057,City Hotel,2023-02-27,9,Single,3,Saint Barthelemy,FB,Confirmed,163,No Deposit,417.03,2832.48
+BK1058,Resort Hotel,2023-02-28,6,Suite,1,Maldives,HB,No Show,205,Refundable,393.54,2071.51
+BK1059,Resort Hotel,2023-03-01,15,Family,2,Thailand,BB,Canceled,25,Refundable,56.46,292.59
+BK1060,City Hotel,2023-03-02,6,Family,2,Bouvet Island (Bouvetoya),BB,Confirmed,207,Refundable,297.61,324.95
+BK1061,City Hotel,2023-03-03,6,Double,1,Burkina Faso,No Meal,No Show,45,Refundable,280.66,4439.5
+BK1062,City Hotel,2023-03-04,3,Family,2,United Kingdom,BB,Confirmed,292,Non Refundable,469.21,4455.58
+BK1063,City Hotel,2023-03-05,1,Single,5,Italy,No Meal,Canceled,81,Refundable,53.32,911.95
+BK1064,City Hotel,2023-03-06,7,Single,1,Zambia,No Meal,Confirmed,265,No Deposit,239.24,4077.2
+BK1065,Resort Hotel,2023-03-07,15,Suite,1,Uganda,BB,Confirmed,86,Refundable,239.65,1098.56
+BK1066,Resort Hotel,2023-03-08,7,Single,4,Ireland,FB,Confirmed,123,No Deposit,76.36,4736.24
+BK1067,Resort Hotel,2023-03-09,3,Double,2,Micronesia,FB,Confirmed,213,No Deposit,394.33,4527.36
+BK1068,City Hotel,2023-03-10,14,Suite,1,Belarus,No Meal,Canceled,93,Non Refundable,115.09,965.63
+BK1069,Resort Hotel,2023-03-11,11,Suite,5,New Caledonia,HB,No Show,43,Non Refundable,72.66,256.73
+BK1070,City Hotel,2023-03-12,14,Suite,5,Madagascar,HB,Confirmed,59,No Deposit,74.01,2006.85
+BK1071,City Hotel,2023-03-13,14,Suite,5,Cocos (Keeling) Islands,FB,No Show,166,Refundable,478.14,3389.79
+BK1072,Resort Hotel,2023-03-14,13,Suite,1,Georgia,HB,Confirmed,148,Refundable,428.13,1069.48
+BK1073,City Hotel,2023-03-15,7,Suite,2,Turkmenistan,HB,No Show,174,Non Refundable,469.09,1949.58
+BK1074,Resort Hotel,2023-03-16,5,Double,2,Cook Islands,FB,Canceled,218,Refundable,152.76,2513.05
+BK1075,Resort Hotel,2023-03-17,10,Single,5,Pakistan,No Meal,Canceled,262,No Deposit,78.57,2068.18
+BK1076,Resort Hotel,2023-03-18,2,Single,5,Seychelles,No Meal,Canceled,183,No Deposit,428.61,3639.7
+BK1077,City Hotel,2023-03-19,4,Double,5,Eritrea,FB,Canceled,200,Refundable,318.81,846.35
+BK1078,City Hotel,2023-03-20,6,Double,5,India,BB,Canceled,157,Refundable,183.36,3460.69
+BK1079,City Hotel,2023-03-21,7,Single,1,Portugal,FB,Confirmed,229,No Deposit,337.33,3110.96
+BK1080,Resort Hotel,2023-03-22,14,Single,1,Saint Helena,FB,Canceled,157,No Deposit,150.07,1523.42
+BK1081,Resort Hotel,2023-03-23,5,Double,1,Chile,FB,Canceled,90,Non Refundable,177.98,815.9
+BK1082,Resort Hotel,2023-03-24,6,Single,4,Albania,No Meal,Canceled,47,Non Refundable,394.62,2697.72
+BK1083,City Hotel,2023-03-25,10,Suite,1,Maldives,No Meal,Canceled,95,Refundable,470.75,2196.97
+BK1084,Resort Hotel,2023-03-26,11,Suite,5,Togo,HB,Canceled,163,Refundable,138.96,3463.86
+BK1085,Resort Hotel,2023-03-27,13,Suite,4,Switzerland,No Meal,Canceled,98,No Deposit,237.32,1662.43
+BK1086,City Hotel,2023-03-28,9,Single,1,Romania,HB,No Show,170,Non Refundable,225.83,2470.72
+BK1087,Resort Hotel,2023-03-29,12,Suite,1,Comoros,HB,No Show,110,Refundable,224.25,1848.66
+BK1088,City Hotel,2023-03-30,10,Suite,5,Uganda,BB,Canceled,54,Refundable,422.99,370.67
+BK1089,City Hotel,2023-03-31,4,Suite,1,Kenya,No Meal,Canceled,170,Refundable,307.98,3131.79
+BK1090,Resort Hotel,2023-04-01,5,Family,5,Bangladesh,BB,Canceled,79,Refundable,222.69,615.39
+BK1091,Resort Hotel,2023-04-02,5,Double,4,Brazil,BB,Confirmed,9,Refundable,283.77,2181.07
+BK1092,Resort Hotel,2023-04-03,6,Double,3,Romania,No Meal,Canceled,224,Non Refundable,364.22,1869.38
+BK1093,Resort Hotel,2023-04-04,4,Suite,5,Lesotho,BB,No Show,98,Refundable,87.44,1485.93
+BK1094,Resort Hotel,2023-04-05,3,Family,1,Isle of Man,BB,No Show,188,Non Refundable,287.41,3070.42
+BK1095,City Hotel,2023-04-06,10,Single,2,South Africa,HB,Confirmed,85,No Deposit,288.9,457.33
+BK1096,Resort Hotel,2023-04-07,7,Double,1,Guatemala,FB,No Show,218,Refundable,126.93,3210.34
+BK1097,Resort Hotel,2023-04-08,2,Suite,5,Estonia,No Meal,Confirmed,32,Non Refundable,149.61,3289.6
+BK1098,Resort Hotel,2023-04-09,14,Suite,2,United States of America,No Meal,No Show,113,No Deposit,90.94,1480.33
+BK1099,Resort Hotel,2023-04-10,2,Single,4,Georgia,FB,Confirmed,105,Non Refundable,61.35,610.66
+BK1100,City Hotel,2023-04-11,13,Suite,3,Maldives,No Meal,Canceled,139,No Deposit,443.44,3000.77
+BK1101,City Hotel,2023-04-12,5,Double,1,Falkland Islands (Malvinas),BB,Confirmed,296,Refundable,393.67,3831.62
+BK1102,City Hotel,2023-04-13,11,Family,4,El Salvador,HB,Confirmed,228,Refundable,79.64,3234.43
+BK1103,Resort Hotel,2023-04-14,9,Single,1,Sri Lanka,FB,No Show,40,No Deposit,149.15,3191.21
+BK1104,Resort Hotel,2023-04-15,6,Family,3,Burundi,HB,No Show,289,Non Refundable,246.33,4128.13
+BK1105,Resort Hotel,2023-04-16,11,Double,3,Egypt,FB,Canceled,216,No Deposit,218.64,3740.78
+BK1106,City Hotel,2023-04-17,6,Family,4,Australia,No Meal,Canceled,154,Non Refundable,308.88,3283.49
+BK1107,Resort Hotel,2023-04-18,9,Family,3,Qatar,No Meal,Canceled,218,No Deposit,410.47,2525.11
+BK1108,Resort Hotel,2023-04-19,4,Family,4,American Samoa,HB,Confirmed,276,No Deposit,399.28,2747.2
+BK1109,City Hotel,2023-04-20,2,Family,5,Montserrat,FB,No Show,294,Refundable,325.64,2218.51
+BK1110,Resort Hotel,2023-04-21,2,Family,5,Macao,FB,Confirmed,170,Non Refundable,485.99,2061.07
+BK1111,Resort Hotel,2023-04-22,13,Double,4,Cyprus,FB,No Show,132,No Deposit,476.96,1744.22
+BK1112,Resort Hotel,2023-04-23,8,Suite,2,Canada,No Meal,Confirmed,245,Refundable,245.31,932.97
+BK1113,City Hotel,2023-04-24,13,Double,4,Vanuatu,No Meal,Confirmed,287,No Deposit,303.31,916.42
+BK1114,City Hotel,2023-04-25,7,Single,3,Wallis and Futuna,HB,Canceled,277,Refundable,391.98,3987.27
+BK1115,Resort Hotel,2023-04-26,5,Suite,3,Cambodia,FB,Confirmed,262,Refundable,388.75,702.1
+BK1116,Resort Hotel,2023-04-27,5,Double,1,Turkmenistan,HB,Canceled,278,Refundable,358.26,3553.91
+BK1117,City Hotel,2023-04-28,5,Double,1,Micronesia,FB,No Show,126,Refundable,206.9,4451.44
+BK1118,City Hotel,2023-04-29,3,Single,4,Ukraine,FB,Canceled,213,Non Refundable,341.1,4914.67
+BK1119,City Hotel,2023-04-30,15,Single,1,United Kingdom,No Meal,Confirmed,211,Refundable,368.48,2640.72
+BK1120,Resort Hotel,2023-05-01,9,Single,1,Zambia,FB,No Show,131,No Deposit,480.64,537.66
+BK1121,Resort Hotel,2023-05-02,9,Single,2,Mali,FB,No Show,3,No Deposit,100.96,3288.27
+BK1122,City Hotel,2023-05-03,14,Suite,4,Aruba,FB,Canceled,134,Refundable,281.8,4287.53
+BK1123,City Hotel,2023-05-04,4,Single,3,Reunion,FB,No Show,64,No Deposit,271.74,4941.38
+BK1124,Resort Hotel,2023-05-05,7,Single,5,Tanzania,BB,No Show,88,Refundable,486.12,1936.03
+BK1125,Resort Hotel,2023-05-06,7,Single,4,Botswana,BB,Canceled,181,No Deposit,305.47,2861.98
+BK1126,Resort Hotel,2023-05-07,8,Family,3,Italy,No Meal,Canceled,112,Refundable,394.06,576.39
+BK1127,Resort Hotel,2023-05-08,11,Double,3,Moldova,HB,No Show,152,Non Refundable,464.27,3175.01
+BK1128,City Hotel,2023-05-09,13,Family,1,South Georgia and the South Sandwich Islands,BB,Canceled,154,Refundable,158.89,2869.12
+BK1129,Resort Hotel,2023-05-10,11,Suite,2,Vietnam,HB,Canceled,68,Non Refundable,491.11,3996.06
+BK1130,City Hotel,2023-05-11,8,Suite,2,Djibouti,HB,Canceled,1,Refundable,355.46,1894.44
+BK1131,City Hotel,2023-05-12,11,Suite,5,Bosnia and Herzegovina,BB,No Show,18,Refundable,339.87,3998.98
+BK1132,Resort Hotel,2023-05-13,11,Family,2,Algeria,HB,No Show,209,No Deposit,277.44,3169.62
+BK1133,Resort Hotel,2023-05-14,1,Suite,3,Faroe Islands,No Meal,No Show,195,Refundable,309.74,285.65
+BK1134,Resort Hotel,2023-05-15,15,Single,5,Brunei Darussalam,No Meal,Confirmed,133,Non Refundable,304.36,1901.57
+BK1135,City Hotel,2023-05-16,3,Double,5,Vietnam,HB,Canceled,237,Refundable,151.05,1766.74
+BK1136,Resort Hotel,2023-05-17,3,Double,4,Belgium,No Meal,Confirmed,162,Refundable,85.99,1798.7
+BK1137,Resort Hotel,2023-05-18,6,Suite,1,Niger,BB,No Show,110,Refundable,385.37,2907.24
+BK1138,City Hotel,2023-05-19,10,Double,2,Paraguay,FB,Confirmed,78,No Deposit,57.31,2375.19
+BK1139,City Hotel,2023-05-20,10,Double,1,Saint Kitts and Nevis,BB,No Show,222,No Deposit,245.85,3043.96
+BK1140,City Hotel,2023-05-21,2,Double,2,Kyrgyz Republic,No Meal,Canceled,24,No Deposit,450.9,1604.38
+BK1141,City Hotel,2023-05-22,11,Double,4,Micronesia,BB,Canceled,248,Non Refundable,187.96,339.68
+BK1142,City Hotel,2023-05-23,2,Family,3,Senegal,No Meal,No Show,204,Non Refundable,205.62,4130.03
+BK1143,City Hotel,2023-05-24,8,Family,3,Samoa,BB,Confirmed,294,Refundable,358.22,2818.11
+BK1144,Resort Hotel,2023-05-25,12,Double,4,Senegal,FB,Confirmed,81,Non Refundable,285.26,2258.17
+BK1145,Resort Hotel,2023-05-26,11,Family,5,Austria,FB,Canceled,6,Refundable,233.83,3917.08
+BK1146,City Hotel,2023-05-27,15,Double,4,Singapore,FB,Confirmed,150,Non Refundable,175.72,4194.7
+BK1147,City Hotel,2023-05-28,12,Single,2,Korea,FB,Confirmed,62,Non Refundable,204.04,2882.03
+BK1148,City Hotel,2023-05-29,6,Single,4,Ukraine,HB,No Show,41,No Deposit,412.89,365.41
+BK1149,Resort Hotel,2023-05-30,1,Double,1,Germany,No Meal,No Show,155,Non Refundable,98.73,2501.14
+BK1150,Resort Hotel,2023-05-31,10,Single,3,Cameroon,BB,Confirmed,174,Refundable,55.08,3298.24
+BK1151,Resort Hotel,2023-06-01,4,Suite,2,Lithuania,BB,Canceled,45,Refundable,301.19,4956.77
+BK1152,Resort Hotel,2023-06-02,12,Single,2,Vietnam,No Meal,Confirmed,213,Refundable,415.54,600.27
+BK1153,Resort Hotel,2023-06-03,4,Double,2,Turkmenistan,No Meal,Confirmed,180,No Deposit,143.72,1009.94
+BK1154,City Hotel,2023-06-04,14,Suite,2,Anguilla,No Meal,Confirmed,140,No Deposit,174.98,1169.51
+BK1155,City Hotel,2023-06-05,5,Double,5,Norway,BB,Canceled,223,Refundable,360.16,985.32
+BK1156,Resort Hotel,2023-06-06,6,Double,1,Burkina Faso,FB,Canceled,295,Refundable,104.56,4490.29
+BK1157,Resort Hotel,2023-06-07,8,Double,5,Mayotte,HB,Confirmed,30,Non Refundable,67.02,3411.31
+BK1158,City Hotel,2023-06-08,13,Suite,1,Guyana,BB,Canceled,17,Non Refundable,109.39,1879.12
+BK1159,Resort Hotel,2023-06-09,12,Family,3,Botswana,FB,No Show,192,Refundable,162.98,3558.01
+BK1160,Resort Hotel,2023-06-10,15,Double,2,Niue,HB,Confirmed,65,No Deposit,417.45,2417.73
+BK1161,Resort Hotel,2023-06-11,14,Family,4,Niger,HB,Canceled,240,No Deposit,184.49,465.96
+BK1162,Resort Hotel,2023-06-12,12,Double,4,Iran,BB,Canceled,133,No Deposit,299.85,3920.46
+BK1163,City Hotel,2023-06-13,3,Single,3,Nauru,FB,Confirmed,125,Refundable,215.3,2802.72
+BK1164,Resort Hotel,2023-06-14,7,Suite,2,Seychelles,No Meal,Confirmed,257,No Deposit,474.63,588.61
+BK1165,City Hotel,2023-06-15,12,Single,4,Syrian Arab Republic,HB,Canceled,284,No Deposit,288.98,3030.28
+BK1166,City Hotel,2023-06-16,6,Family,3,Canada,BB,No Show,261,No Deposit,377.59,3624.98
+BK1167,City Hotel,2023-06-17,9,Suite,4,Cyprus,HB,Confirmed,63,Non Refundable,64.79,953.12
+BK1168,City Hotel,2023-06-18,2,Family,2,Bolivia,BB,No Show,186,No Deposit,185.97,3105.34
+BK1169,Resort Hotel,2023-06-19,9,Single,1,Saint Barthelemy,No Meal,Canceled,182,Non Refundable,369.08,3309.57
+BK1170,Resort Hotel,2023-06-20,11,Suite,1,Mayotte,No Meal,Canceled,205,Refundable,117.96,1263.23
+BK1171,Resort Hotel,2023-06-21,14,Family,3,Yemen,FB,Canceled,4,Non Refundable,51.22,2006.82
+BK1172,City Hotel,2023-06-22,11,Family,4,South Africa,BB,Confirmed,200,No Deposit,196.54,4615.78
+BK1173,Resort Hotel,2023-06-23,14,Family,3,Cook Islands,FB,Confirmed,18,Refundable,392.69,1905.52
+BK1174,City Hotel,2023-06-24,3,Family,1,Belgium,No Meal,Canceled,173,Non Refundable,256.5,611.85
+BK1175,Resort Hotel,2023-06-25,11,Suite,4,Mongolia,No Meal,No Show,125,No Deposit,58.05,4997.8
+BK1176,City Hotel,2023-06-26,5,Family,3,Samoa,HB,Canceled,254,No Deposit,270.64,453.36
+BK1177,Resort Hotel,2023-06-27,14,Suite,2,Bhutan,FB,No Show,300,Refundable,401.17,4058.65
+BK1178,Resort Hotel,2023-06-28,2,Single,3,Cote d'Ivoire,FB,Confirmed,274,Refundable,153.32,4811.54
+BK1179,City Hotel,2023-06-29,11,Suite,2,Guernsey,HB,Canceled,192,Refundable,453.05,3167.05
+BK1180,City Hotel,2023-06-30,1,Family,2,Holy See (Vatican City State),HB,Confirmed,135,Refundable,494.44,935.0
+BK1181,Resort Hotel,2023-07-01,7,Double,5,Guyana,BB,No Show,24,Non Refundable,433.91,3244.52
+BK1182,City Hotel,2023-07-02,1,Suite,4,Bhutan,No Meal,Canceled,57,Non Refundable,131.2,1486.92
+BK1183,Resort Hotel,2023-07-03,15,Suite,3,United States of America,FB,Confirmed,119,Refundable,403.5,1693.36
+BK1184,City Hotel,2023-07-04,10,Double,2,Bangladesh,No Meal,Confirmed,266,Refundable,134.13,3277.01
+BK1185,City Hotel,2023-07-05,3,Double,4,Ukraine,FB,Canceled,291,Refundable,455.98,575.29
+BK1186,Resort Hotel,2023-07-06,7,Single,3,Haiti,FB,Canceled,139,Refundable,389.44,2859.47
+BK1187,City Hotel,2023-07-07,11,Suite,5,Oman,BB,Canceled,252,Non Refundable,355.95,1692.67
+BK1188,City Hotel,2023-07-08,1,Double,3,Haiti,HB,Confirmed,80,No Deposit,190.96,4938.55
+BK1189,City Hotel,2023-07-09,15,Single,3,Nauru,HB,Confirmed,70,Non Refundable,238.18,694.89
+BK1190,City Hotel,2023-07-10,1,Family,2,Guatemala,BB,Confirmed,47,Refundable,175.68,2324.74
+BK1191,Resort Hotel,2023-07-11,11,Family,1,Cameroon,No Meal,Canceled,206,Refundable,268.58,3999.28
+BK1192,Resort Hotel,2023-07-12,11,Single,1,Estonia,BB,Canceled,131,Refundable,497.03,3696.11
+BK1193,City Hotel,2023-07-13,14,Single,1,Finland,No Meal,Canceled,61,No Deposit,72.8,1397.36
+BK1194,Resort Hotel,2023-07-14,10,Family,5,Sweden,BB,No Show,211,Refundable,303.06,1627.61
+BK1195,City Hotel,2023-07-15,12,Suite,5,New Caledonia,HB,Canceled,213,Non Refundable,183.11,4026.17
+BK1196,Resort Hotel,2023-07-16,2,Suite,3,Argentina,FB,No Show,253,Non Refundable,341.08,2989.35
+BK1197,Resort Hotel,2023-07-17,11,Double,2,Haiti,No Meal,No Show,172,Non Refundable,164.5,3380.19
+BK1198,Resort Hotel,2023-07-18,4,Family,3,Greenland,FB,Canceled,195,No Deposit,402.7,3382.96
+BK1199,Resort Hotel,2023-07-19,4,Single,5,Fiji,No Meal,No Show,274,Non Refundable,99.71,1925.73
+BK1200,City Hotel,2023-07-20,5,Single,2,Vanuatu,FB,Confirmed,246,Non Refundable,98.23,3573.61
+BK1201,Resort Hotel,2023-07-21,7,Family,2,Turks and Caicos Islands,No Meal,Confirmed,102,Refundable,418.93,2351.72
+BK1202,Resort Hotel,2023-07-22,10,Double,4,Antarctica (the territory South of 60 deg S),FB,Canceled,93,Non Refundable,62.78,2353.55
+BK1203,Resort Hotel,2023-07-23,11,Double,3,Sri Lanka,HB,No Show,156,No Deposit,440.69,1458.09
+BK1204,Resort Hotel,2023-07-24,7,Double,3,British Virgin Islands,BB,No Show,202,Refundable,365.62,2417.13
+BK1205,City Hotel,2023-07-25,10,Family,1,Greece,No Meal,No Show,165,Non Refundable,420.54,4962.44
+BK1206,Resort Hotel,2023-07-26,15,Single,1,Palestinian Territory,FB,Confirmed,70,No Deposit,153.76,992.32
+BK1207,City Hotel,2023-07-27,9,Suite,2,Iraq,BB,Confirmed,158,No Deposit,183.71,3222.09
+BK1208,Resort Hotel,2023-07-28,5,Double,2,Greenland,FB,No Show,299,Non Refundable,221.59,4825.0
+BK1209,City Hotel,2023-07-29,8,Family,3,Taiwan,No Meal,Canceled,88,Refundable,495.79,1619.35
+BK1210,City Hotel,2023-07-30,2,Suite,1,Tanzania,BB,Canceled,21,Non Refundable,349.09,4882.88
+BK1211,Resort Hotel,2023-07-31,10,Double,1,Tajikistan,FB,Confirmed,6,Refundable,360.74,3460.23
+BK1212,Resort Hotel,2023-08-01,15,Double,4,Finland,No Meal,Confirmed,231,Non Refundable,434.26,3176.88
+BK1213,Resort Hotel,2023-08-02,1,Family,3,Andorra,HB,Canceled,262,Non Refundable,218.54,2630.9
+BK1214,Resort Hotel,2023-08-03,15,Double,4,Paraguay,No Meal,Confirmed,31,Refundable,134.13,1944.13
+BK1215,City Hotel,2023-08-04,10,Suite,4,Yemen,HB,Canceled,117,Refundable,477.05,186.28
+BK1216,City Hotel,2023-08-05,8,Double,1,Russian Federation,HB,Canceled,72,Refundable,277.78,938.71
+BK1217,Resort Hotel,2023-08-06,11,Double,1,Netherlands,BB,Confirmed,286,Refundable,270.06,2214.74
+BK1218,Resort Hotel,2023-08-07,10,Family,4,Lao People's Democratic Republic,FB,Canceled,166,Refundable,63.11,4871.05
+BK1219,City Hotel,2023-08-08,11,Suite,5,Macedonia,No Meal,Confirmed,15,Refundable,217.64,2155.53
+BK1220,Resort Hotel,2023-08-09,15,Family,1,Somalia,BB,Confirmed,83,Non Refundable,221.66,1253.64
+BK1221,Resort Hotel,2023-08-10,11,Family,2,Georgia,FB,No Show,96,No Deposit,174.95,1009.4
+BK1222,City Hotel,2023-08-11,7,Suite,4,Tonga,HB,Canceled,78,Refundable,196.72,950.72
+BK1223,City Hotel,2023-08-12,2,Family,4,Turkmenistan,FB,Canceled,14,Refundable,60.58,3354.85
+BK1224,Resort Hotel,2023-08-13,8,Family,2,Turkey,HB,Canceled,207,No Deposit,112.85,1174.31
+BK1225,Resort Hotel,2023-08-14,5,Single,4,Korea,HB,Confirmed,259,No Deposit,114.42,1466.96
+BK1226,City Hotel,2023-08-15,5,Suite,2,Bangladesh,BB,No Show,277,No Deposit,259.99,835.26
+BK1227,City Hotel,2023-08-16,12,Double,4,Suriname,BB,Confirmed,16,Refundable,390.07,3369.75
+BK1228,City Hotel,2023-08-17,8,Single,4,Gambia,HB,Confirmed,94,Refundable,466.66,3376.09
+BK1229,Resort Hotel,2023-08-18,9,Double,2,Pitcairn Islands,BB,Canceled,201,Non Refundable,465.19,1189.87
+BK1230,City Hotel,2023-08-19,8,Double,5,Isle of Man,HB,Confirmed,81,Refundable,319.15,4455.58
+BK1231,City Hotel,2023-08-20,4,Family,3,Libyan Arab Jamahiriya,BB,No Show,19,No Deposit,448.24,2102.95
+BK1232,City Hotel,2023-08-21,3,Suite,1,Poland,HB,Canceled,275,Non Refundable,111.67,2290.54
+BK1233,City Hotel,2023-08-22,9,Double,1,Germany,FB,No Show,183,No Deposit,325.17,4234.7
+BK1234,Resort Hotel,2023-08-23,3,Family,5,Turkey,HB,Confirmed,111,Non Refundable,396.98,1120.11
+BK1235,City Hotel,2023-08-24,6,Double,3,Macedonia,BB,Canceled,90,Refundable,181.75,316.9
+BK1236,Resort Hotel,2023-08-25,15,Suite,2,Malaysia,BB,No Show,166,Non Refundable,201.52,3663.98
+BK1237,Resort Hotel,2023-08-26,6,Double,3,Angola,BB,No Show,175,Refundable,184.54,3556.72
+BK1238,Resort Hotel,2023-08-27,2,Single,5,Paraguay,FB,Confirmed,81,Non Refundable,210.16,138.32
+BK1239,Resort Hotel,2023-08-28,7,Family,5,Moldova,No Meal,Canceled,9,Refundable,226.42,4547.12
+BK1240,Resort Hotel,2023-08-29,4,Double,4,Panama,FB,Canceled,102,No Deposit,308.49,4041.24
+BK1241,City Hotel,2023-08-30,9,Single,4,Papua New Guinea,No Meal,No Show,127,No Deposit,300.23,2261.07
+BK1242,City Hotel,2023-08-31,14,Suite,4,Tuvalu,No Meal,Canceled,175,No Deposit,126.27,1350.56
+BK1243,Resort Hotel,2023-09-01,5,Suite,4,Mauritius,BB,Canceled,250,Non Refundable,84.65,1980.47
+BK1244,Resort Hotel,2023-09-02,7,Double,3,Barbados,FB,No Show,257,Refundable,468.89,3873.59
+BK1245,Resort Hotel,2023-09-03,9,Double,2,Canada,FB,No Show,203,No Deposit,325.86,1497.85
+BK1246,Resort Hotel,2023-09-04,9,Family,2,Congo,FB,No Show,155,Non Refundable,349.16,227.35
+BK1247,City Hotel,2023-09-05,3,Double,3,Palau,FB,No Show,183,Refundable,392.04,2533.53
+BK1248,City Hotel,2023-09-06,3,Single,1,Niger,BB,No Show,279,Non Refundable,165.17,3988.26
+BK1249,City Hotel,2023-09-07,2,Single,2,Saint Helena,HB,Canceled,134,Non Refundable,156.86,4109.78
+BK1250,City Hotel,2023-09-08,14,Double,1,China,HB,Confirmed,140,Non Refundable,170.24,4959.21
+BK1251,Resort Hotel,2023-09-09,2,Single,5,Kazakhstan,FB,Canceled,111,Non Refundable,415.13,651.73
+BK1252,City Hotel,2023-09-10,6,Single,4,Cocos (Keeling) Islands,BB,No Show,38,Refundable,145.7,2933.24
+BK1253,City Hotel,2023-09-11,10,Double,3,Slovenia,HB,No Show,197,No Deposit,395.23,4528.5
+BK1254,City Hotel,2023-09-12,12,Single,5,Sao Tome and Principe,HB,No Show,225,No Deposit,441.08,2613.41
+BK1255,Resort Hotel,2023-09-13,2,Single,1,Guyana,FB,Canceled,227,Non Refundable,134.95,1791.08
+BK1256,Resort Hotel,2023-09-14,6,Double,4,Cambodia,FB,No Show,157,Refundable,76.95,1686.71
+BK1257,Resort Hotel,2023-09-15,11,Family,3,Guernsey,HB,Canceled,178,No Deposit,268.04,3461.77
+BK1258,Resort Hotel,2023-09-16,14,Double,4,Uzbekistan,No Meal,Canceled,6,Refundable,108.75,2485.96
+BK1259,City Hotel,2023-09-17,8,Family,5,Turkey,HB,Confirmed,66,Refundable,187.89,4185.84
+BK1260,Resort Hotel,2023-09-18,7,Single,1,Mauritania,BB,Confirmed,37,No Deposit,334.03,3272.02
+BK1261,City Hotel,2023-09-19,1,Family,3,Australia,BB,Canceled,81,No Deposit,403.06,1254.76
+BK1262,City Hotel,2023-09-20,4,Double,4,Mauritius,No Meal,No Show,236,Non Refundable,353.35,4565.89
+BK1263,City Hotel,2023-09-21,4,Double,1,New Zealand,FB,Canceled,167,Refundable,366.12,4752.91
+BK1264,City Hotel,2023-09-22,4,Family,2,Antigua and Barbuda,HB,Canceled,278,No Deposit,152.19,3495.55
+BK1265,City Hotel,2023-09-23,12,Family,2,Jersey,FB,Canceled,143,Non Refundable,178.34,4825.21
+BK1266,Resort Hotel,2023-09-24,3,Family,2,Uganda,FB,Canceled,247,Non Refundable,425.74,111.52
+BK1267,Resort Hotel,2023-09-25,1,Single,5,Mayotte,No Meal,No Show,13,Refundable,477.33,2559.48
+BK1268,City Hotel,2023-09-26,10,Family,1,Bermuda,No Meal,No Show,122,No Deposit,204.74,4782.78
+BK1269,Resort Hotel,2023-09-27,1,Family,2,Bolivia,BB,Confirmed,52,No Deposit,385.36,2327.38
+BK1270,City Hotel,2023-09-28,7,Single,4,Cote d'Ivoire,HB,Canceled,111,No Deposit,92.01,489.35
+BK1271,Resort Hotel,2023-09-29,2,Single,1,Myanmar,FB,Confirmed,55,Refundable,441.35,4709.23
+BK1272,City Hotel,2023-09-30,12,Single,3,Liechtenstein,FB,Confirmed,196,Refundable,380.71,1273.08
+BK1273,Resort Hotel,2023-10-01,14,Suite,4,Saint Pierre and Miquelon,BB,No Show,161,No Deposit,411.97,1132.79
+BK1274,City Hotel,2023-10-02,6,Family,2,Albania,No Meal,No Show,70,Non Refundable,72.46,167.1
+BK1275,Resort Hotel,2023-10-03,1,Double,4,Netherlands Antilles,HB,Canceled,293,Non Refundable,407.4,4625.64
+BK1276,City Hotel,2023-10-04,9,Family,1,Tokelau,No Meal,Canceled,166,Non Refundable,411.33,913.75
+BK1277,City Hotel,2023-10-05,13,Single,1,Comoros,HB,Confirmed,237,Non Refundable,375.69,3524.74
+BK1278,City Hotel,2023-10-06,13,Family,1,Mongolia,No Meal,No Show,244,Refundable,154.22,2173.67
+BK1279,City Hotel,2023-10-07,4,Single,4,Netherlands Antilles,BB,Confirmed,271,No Deposit,143.82,2582.93
+BK1280,City Hotel,2023-10-08,2,Single,1,Zimbabwe,No Meal,Canceled,50,No Deposit,240.17,1777.03
+BK1281,Resort Hotel,2023-10-09,7,Single,1,Azerbaijan,No Meal,No Show,132,Non Refundable,123.48,2115.42
+BK1282,City Hotel,2023-10-10,10,Double,4,Syrian Arab Republic,No Meal,Canceled,117,Non Refundable,51.33,298.18
+BK1283,City Hotel,2023-10-11,5,Family,1,Denmark,No Meal,Confirmed,162,No Deposit,100.12,2239.41
+BK1284,Resort Hotel,2023-10-12,13,Single,4,Cayman Islands,No Meal,Canceled,285,Non Refundable,262.89,142.73
+BK1285,City Hotel,2023-10-13,11,Single,3,Sweden,HB,Confirmed,97,No Deposit,428.78,2738.51
+BK1286,City Hotel,2023-10-14,8,Suite,1,Guam,FB,No Show,73,Non Refundable,55.67,3411.03
+BK1287,City Hotel,2023-10-15,10,Single,4,Tajikistan,HB,Canceled,212,Non Refundable,276.94,2873.39
+BK1288,Resort Hotel,2023-10-16,14,Suite,1,Pitcairn Islands,No Meal,Confirmed,74,Refundable,138.74,1647.23
+BK1289,Resort Hotel,2023-10-17,8,Double,2,Seychelles,BB,Confirmed,103,Non Refundable,494.79,4319.48
+BK1290,City Hotel,2023-10-18,14,Double,4,Belarus,HB,Canceled,185,Refundable,240.11,1131.23
+BK1291,Resort Hotel,2023-10-19,15,Suite,4,Monaco,HB,Confirmed,137,Refundable,117.04,3442.02
+BK1292,Resort Hotel,2023-10-20,14,Family,4,Morocco,BB,No Show,232,Non Refundable,54.67,2967.93
+BK1293,City Hotel,2023-10-21,10,Double,1,Cuba,HB,No Show,151,Non Refundable,107.95,4098.04
+BK1294,Resort Hotel,2023-10-22,2,Family,4,Niue,FB,No Show,110,No Deposit,51.95,2344.72
+BK1295,Resort Hotel,2023-10-23,11,Suite,5,Maldives,No Meal,Canceled,253,Refundable,383.31,3470.53
+BK1296,Resort Hotel,2023-10-24,6,Single,5,Kiribati,No Meal,No Show,253,No Deposit,389.51,1182.67
+BK1297,Resort Hotel,2023-10-25,4,Double,4,Tokelau,BB,Confirmed,167,Non Refundable,495.25,1191.62
+BK1298,Resort Hotel,2023-10-26,1,Suite,5,Lao People's Democratic Republic,BB,No Show,273,No Deposit,50.27,1969.96
+BK1299,City Hotel,2023-10-27,9,Suite,1,Svalbard & Jan Mayen Islands,FB,No Show,282,Non Refundable,114.41,1247.07
+BK1300,Resort Hotel,2023-10-28,15,Family,4,Mexico,FB,Confirmed,73,Non Refundable,93.89,4730.24
+BK1301,City Hotel,2023-10-29,13,Single,4,Christmas Island,HB,Confirmed,205,Non Refundable,266.24,2572.44
+BK1302,Resort Hotel,2023-10-30,1,Family,3,Belgium,BB,No Show,4,Non Refundable,231.31,4929.7
+BK1303,Resort Hotel,2023-10-31,7,Single,2,Jersey,BB,No Show,109,Non Refundable,239.41,4928.96
+BK1304,Resort Hotel,2023-11-01,5,Family,5,Angola,No Meal,Confirmed,171,No Deposit,290.57,564.79
+BK1305,City Hotel,2023-11-02,10,Family,1,Libyan Arab Jamahiriya,HB,No Show,171,No Deposit,329.51,3013.6
+BK1306,City Hotel,2023-11-03,10,Suite,2,Seychelles,No Meal,No Show,33,Refundable,146.91,378.19
+BK1307,Resort Hotel,2023-11-04,5,Single,3,Bangladesh,FB,Canceled,233,Non Refundable,150.71,4905.27
+BK1308,Resort Hotel,2023-11-05,4,Family,2,Dominican Republic,FB,Confirmed,72,Refundable,63.12,111.12
+BK1309,City Hotel,2023-11-06,9,Suite,2,Slovenia,No Meal,Confirmed,156,Non Refundable,328.41,882.56
+BK1310,City Hotel,2023-11-07,8,Suite,2,Egypt,HB,Confirmed,127,Non Refundable,157.26,3442.82
+BK1311,City Hotel,2023-11-08,1,Suite,3,Niger,No Meal,Confirmed,276,Non Refundable,319.42,965.1
+BK1312,City Hotel,2023-11-09,7,Family,3,Israel,FB,No Show,243,No Deposit,326.32,3196.84
+BK1313,City Hotel,2023-11-10,10,Single,4,Papua New Guinea,BB,Confirmed,242,No Deposit,437.02,3343.24
+BK1314,City Hotel,2023-11-11,7,Family,1,Guinea-Bissau,BB,Canceled,132,Non Refundable,237.38,2239.15
+BK1315,Resort Hotel,2023-11-12,4,Single,3,Saint Pierre and Miquelon,No Meal,Confirmed,160,No Deposit,467.18,2683.37
+BK1316,Resort Hotel,2023-11-13,1,Double,2,Bahrain,BB,Confirmed,135,Refundable,360.61,445.07
+BK1317,City Hotel,2023-11-14,4,Double,1,Cuba,HB,Confirmed,296,Refundable,290.64,1765.5
+BK1318,Resort Hotel,2023-11-15,5,Family,1,Saint Barthelemy,No Meal,No Show,151,No Deposit,224.94,784.46
+BK1319,City Hotel,2023-11-16,10,Family,5,Fiji,HB,No Show,105,No Deposit,258.54,624.84
+BK1320,Resort Hotel,2023-11-17,15,Single,4,Guinea-Bissau,HB,No Show,165,Non Refundable,51.83,3975.81
+BK1321,Resort Hotel,2023-11-18,10,Double,4,Bhutan,No Meal,No Show,176,Refundable,162.49,4396.48
+BK1322,Resort Hotel,2023-11-19,9,Single,2,Malaysia,FB,Confirmed,71,Non Refundable,390.63,618.94
+BK1323,Resort Hotel,2023-11-20,10,Suite,5,Portugal,No Meal,Confirmed,119,Refundable,216.58,2872.29
+BK1324,Resort Hotel,2023-11-21,8,Family,4,Saint Lucia,No Meal,No Show,58,Refundable,366.45,2929.44
+BK1325,Resort Hotel,2023-11-22,7,Single,5,Sri Lanka,FB,Confirmed,106,Non Refundable,202.85,2321.1
+BK1326,City Hotel,2023-11-23,6,Family,4,Barbados,FB,Canceled,294,Refundable,200.77,4328.93
+BK1327,Resort Hotel,2023-11-24,13,Suite,4,Congo,HB,Confirmed,212,Refundable,76.68,2597.59
+BK1328,City Hotel,2023-11-25,10,Single,2,Tuvalu,No Meal,Confirmed,144,No Deposit,421.03,719.57
+BK1329,Resort Hotel,2023-11-26,5,Single,5,Ethiopia,BB,No Show,98,Non Refundable,125.14,1125.21
+BK1330,Resort Hotel,2023-11-27,6,Family,3,Central African Republic,HB,Canceled,130,No Deposit,337.27,3360.61
+BK1331,Resort Hotel,2023-11-28,15,Family,4,Canada,BB,Confirmed,45,Refundable,427.94,3455.6
+BK1332,Resort Hotel,2023-11-29,7,Family,3,Spain,FB,No Show,6,Refundable,163.1,3597.63
+BK1333,City Hotel,2023-11-30,8,Family,3,Israel,FB,Canceled,115,Refundable,138.25,4962.35
+BK1334,City Hotel,2023-12-01,8,Single,3,Niger,HB,Canceled,183,Non Refundable,315.51,1214.77
+BK1335,City Hotel,2023-12-02,9,Single,2,Liberia,BB,No Show,45,No Deposit,274.09,1619.93
+BK1336,Resort Hotel,2023-12-03,5,Single,5,Azerbaijan,FB,Canceled,145,No Deposit,314.92,4208.17
+BK1337,City Hotel,2023-12-04,5,Suite,4,Cape Verde,No Meal,Canceled,65,Non Refundable,138.77,3714.07
+BK1338,City Hotel,2023-12-05,1,Single,3,Argentina,HB,Canceled,85,Refundable,478.69,4453.98
+BK1339,Resort Hotel,2023-12-06,5,Double,3,Guadeloupe,BB,Canceled,287,No Deposit,84.3,426.13
+BK1340,Resort Hotel,2023-12-07,4,Family,1,Falkland Islands (Malvinas),No Meal,Confirmed,152,Non Refundable,126.93,2656.35
+BK1341,City Hotel,2023-12-08,9,Double,4,United States of America,HB,No Show,189,Refundable,343.7,3958.26
+BK1342,City Hotel,2023-12-09,2,Suite,3,Norway,FB,Canceled,263,Non Refundable,469.46,1603.88
+BK1343,City Hotel,2023-12-10,14,Suite,2,Bosnia and Herzegovina,HB,Canceled,175,No Deposit,252.46,4500.14
+BK1344,City Hotel,2023-12-11,4,Family,4,Niger,No Meal,Confirmed,106,No Deposit,132.05,1949.13
+BK1345,City Hotel,2023-12-12,15,Family,5,Jordan,BB,Confirmed,249,Refundable,151.01,544.33
+BK1346,Resort Hotel,2023-12-13,12,Double,1,Fiji,FB,Canceled,248,Refundable,315.22,1920.14
+BK1347,City Hotel,2023-12-14,6,Single,4,Christmas Island,No Meal,Canceled,206,Non Refundable,399.66,1638.36
+BK1348,City Hotel,2023-12-15,10,Single,1,Slovenia,BB,Canceled,125,Refundable,160.83,840.14
+BK1349,City Hotel,2023-12-16,15,Single,3,French Southern Territories,FB,No Show,13,Refundable,321.74,1181.56
+BK1350,City Hotel,2023-12-17,14,Single,2,Andorra,No Meal,No Show,89,Non Refundable,280.3,3131.24
+BK1351,City Hotel,2023-12-18,2,Single,5,Guernsey,No Meal,Canceled,143,Non Refundable,107.39,3069.92
+BK1352,Resort Hotel,2023-12-19,9,Double,1,Guam,BB,Confirmed,225,Refundable,172.93,2659.19
+BK1353,Resort Hotel,2023-12-20,7,Family,3,Kenya,No Meal,No Show,130,Refundable,244.31,635.97
+BK1354,Resort Hotel,2023-12-21,3,Suite,2,Greece,HB,Canceled,258,Refundable,116.43,1764.42
+BK1355,Resort Hotel,2023-12-22,6,Family,5,Azerbaijan,HB,Confirmed,128,Non Refundable,313.96,4382.0
+BK1356,Resort Hotel,2023-12-23,3,Family,4,Nigeria,BB,Canceled,16,No Deposit,152.5,992.06
+BK1357,City Hotel,2023-12-24,9,Single,5,Togo,BB,No Show,221,No Deposit,228.99,200.25
+BK1358,Resort Hotel,2023-12-25,9,Suite,1,Azerbaijan,FB,Confirmed,179,Refundable,304.01,896.36
+BK1359,Resort Hotel,2023-12-26,6,Suite,3,Eritrea,No Meal,No Show,170,Non Refundable,171.78,3868.25
+BK1360,Resort Hotel,2023-12-27,15,Suite,4,Turkmenistan,No Meal,Confirmed,166,Non Refundable,95.53,1506.82
+BK1361,Resort Hotel,2023-12-28,12,Suite,5,Iraq,FB,Canceled,108,Non Refundable,349.18,578.36
+BK1362,City Hotel,2023-12-29,6,Suite,4,Niue,HB,Confirmed,94,Non Refundable,268.93,4549.62
+BK1363,Resort Hotel,2023-12-30,14,Family,2,Vietnam,No Meal,Canceled,198,No Deposit,478.1,1621.45
+BK1364,City Hotel,2023-12-31,3,Single,3,Mauritius,No Meal,Canceled,27,Non Refundable,187.89,4422.4
+BK1365,Resort Hotel,2024-01-01,8,Double,1,Kazakhstan,HB,Canceled,186,Non Refundable,273.86,3187.39
+BK1366,City Hotel,2024-01-02,2,Double,5,Slovakia (Slovak Republic),HB,Confirmed,271,No Deposit,155.6,4218.6
+BK1367,City Hotel,2024-01-03,12,Single,4,Angola,No Meal,No Show,38,Refundable,79.43,3107.56
+BK1368,City Hotel,2024-01-04,12,Family,1,Saint Kitts and Nevis,FB,No Show,239,Refundable,96.14,2071.58
+BK1369,City Hotel,2024-01-05,5,Double,2,Saint Helena,No Meal,Confirmed,69,Non Refundable,493.01,2163.47
+BK1370,City Hotel,2024-01-06,4,Family,2,Guam,BB,Confirmed,292,Non Refundable,50.98,3000.48
+BK1371,City Hotel,2024-01-07,2,Double,3,Turkmenistan,No Meal,Confirmed,209,Non Refundable,401.59,4262.03
+BK1372,City Hotel,2024-01-08,2,Double,3,Saint Martin,FB,Canceled,125,Non Refundable,80.86,3457.06
+BK1373,Resort Hotel,2024-01-09,15,Suite,3,Dominican Republic,BB,Confirmed,195,No Deposit,394.06,4017.1
+BK1374,Resort Hotel,2024-01-10,10,Family,5,Azerbaijan,BB,Canceled,50,Non Refundable,102.41,410.02
+BK1375,Resort Hotel,2024-01-11,7,Double,5,Antarctica (the territory South of 60 deg S),HB,Confirmed,163,Non Refundable,479.15,866.45
+BK1376,City Hotel,2024-01-12,9,Single,3,Comoros,No Meal,No Show,31,Refundable,269.13,1129.35
+BK1377,Resort Hotel,2024-01-13,12,Family,4,Israel,No Meal,No Show,258,No Deposit,266.9,1414.87
+BK1378,City Hotel,2024-01-14,7,Suite,2,Latvia,FB,No Show,158,Non Refundable,59.8,3876.52
+BK1379,Resort Hotel,2024-01-15,2,Suite,3,Angola,HB,No Show,207,No Deposit,116.91,2659.7
+BK1380,City Hotel,2024-01-16,1,Suite,3,Bhutan,No Meal,No Show,210,Non Refundable,143.23,1814.66
+BK1381,City Hotel,2024-01-17,8,Family,2,Oman,BB,Canceled,264,Non Refundable,455.45,1162.11
+BK1382,Resort Hotel,2024-01-18,10,Suite,3,Lesotho,HB,No Show,234,No Deposit,479.63,2912.33
+BK1383,Resort Hotel,2024-01-19,3,Family,1,Singapore,No Meal,No Show,200,Refundable,158.64,3351.78
+BK1384,Resort Hotel,2024-01-20,2,Suite,4,Mauritius,BB,No Show,214,No Deposit,460.95,2572.56
+BK1385,City Hotel,2024-01-21,9,Double,1,New Caledonia,FB,Confirmed,62,Non Refundable,445.99,2401.57
+BK1386,City Hotel,2024-01-22,11,Suite,3,Hungary,BB,Canceled,42,No Deposit,121.94,3468.27
+BK1387,City Hotel,2024-01-23,11,Double,4,Japan,HB,No Show,257,Refundable,317.1,3701.27
+BK1388,City Hotel,2024-01-24,5,Double,3,Bermuda,BB,Canceled,99,Refundable,455.42,1195.66
+BK1389,Resort Hotel,2024-01-25,8,Single,2,Guernsey,HB,Canceled,21,No Deposit,228.12,1830.43
+BK1390,Resort Hotel,2024-01-26,11,Suite,2,Saint Martin,HB,No Show,172,No Deposit,129.36,438.26
+BK1391,City Hotel,2024-01-27,11,Family,3,Trinidad and Tobago,HB,No Show,242,Non Refundable,71.17,4494.36
+BK1392,City Hotel,2024-01-28,9,Double,2,Bermuda,BB,Confirmed,165,No Deposit,153.81,1087.27
+BK1393,Resort Hotel,2024-01-29,11,Single,1,Honduras,BB,No Show,96,Refundable,231.27,3081.51
+BK1394,Resort Hotel,2024-01-30,7,Suite,1,Mali,HB,Canceled,179,No Deposit,113.69,2908.39
+BK1395,City Hotel,2024-01-31,3,Suite,5,Cote d'Ivoire,BB,No Show,204,Refundable,424.78,4904.74
+BK1396,Resort Hotel,2024-02-01,10,Single,3,Azerbaijan,BB,Confirmed,161,Refundable,273.91,2373.89
+BK1397,Resort Hotel,2024-02-02,6,Double,3,Montserrat,HB,Canceled,20,No Deposit,493.85,2476.66
+BK1398,City Hotel,2024-02-03,11,Family,1,Macao,BB,Confirmed,221,Refundable,172.23,1468.1
+BK1399,Resort Hotel,2024-02-04,5,Double,4,Saint Martin,BB,Canceled,79,Refundable,198.46,1429.29
+BK1400,Resort Hotel,2024-02-05,10,Suite,1,Heard Island and McDonald Islands,FB,No Show,75,Non Refundable,359.78,3932.01
+BK1401,City Hotel,2024-02-06,1,Suite,5,Bahamas,HB,No Show,241,No Deposit,101.65,3696.3
+BK1402,Resort Hotel,2024-02-07,11,Family,2,Lao People's Democratic Republic,FB,Canceled,292,Non Refundable,275.13,4857.81
+BK1403,City Hotel,2024-02-08,4,Suite,2,Aruba,FB,Canceled,271,No Deposit,182.02,2402.87
+BK1404,City Hotel,2024-02-09,13,Single,2,Norfolk Island,HB,Canceled,282,Refundable,423.35,4784.81
+BK1405,City Hotel,2024-02-10,1,Double,4,Panama,HB,Confirmed,230,Refundable,101.95,391.18
+BK1406,Resort Hotel,2024-02-11,5,Family,4,Slovakia (Slovak Republic),No Meal,Canceled,223,No Deposit,220.77,2136.81
+BK1407,City Hotel,2024-02-12,9,Double,3,Isle of Man,No Meal,Canceled,91,No Deposit,264.42,2635.07
+BK1408,City Hotel,2024-02-13,9,Double,5,Qatar,BB,No Show,60,Non Refundable,190.91,4109.02
+BK1409,City Hotel,2024-02-14,5,Single,4,Brunei Darussalam,BB,No Show,6,Non Refundable,192.94,3082.52
+BK1410,Resort Hotel,2024-02-15,9,Single,2,Yemen,BB,Canceled,213,Refundable,279.03,1450.72
+BK1411,Resort Hotel,2024-02-16,2,Family,4,Nauru,FB,Canceled,249,Refundable,411.93,2262.52
+BK1412,Resort Hotel,2024-02-17,14,Suite,2,Guinea-Bissau,No Meal,Confirmed,66,Refundable,60.84,1613.7
+BK1413,City Hotel,2024-02-18,10,Suite,5,India,No Meal,Confirmed,237,No Deposit,466.41,1101.88
+BK1414,City Hotel,2024-02-19,13,Double,5,Uganda,FB,Canceled,256,Non Refundable,210.43,3319.25
+BK1415,Resort Hotel,2024-02-20,2,Family,2,Maldives,HB,No Show,237,Non Refundable,186.98,1593.96
+BK1416,City Hotel,2024-02-21,12,Family,2,Bosnia and Herzegovina,FB,No Show,78,No Deposit,171.24,743.62
+BK1417,City Hotel,2024-02-22,13,Family,1,Guernsey,No Meal,No Show,288,Non Refundable,459.39,2271.49
+BK1418,Resort Hotel,2024-02-23,14,Double,5,Nauru,HB,No Show,230,Refundable,224.31,2773.12
+BK1419,City Hotel,2024-02-24,5,Family,5,Saint Helena,BB,Canceled,125,Refundable,77.76,2167.19
+BK1420,Resort Hotel,2024-02-25,1,Single,2,Wallis and Futuna,BB,Canceled,133,Non Refundable,103.65,4025.18
+BK1421,Resort Hotel,2024-02-26,9,Suite,4,Guatemala,No Meal,No Show,208,Refundable,241.73,3455.14
+BK1422,City Hotel,2024-02-27,4,Double,4,Serbia,HB,Confirmed,148,No Deposit,299.66,3022.52
+BK1423,City Hotel,2024-02-28,1,Family,5,Tuvalu,FB,No Show,82,No Deposit,498.43,3021.21
+BK1424,City Hotel,2024-02-29,10,Family,1,Bahrain,HB,Canceled,149,No Deposit,101.99,2639.27
+BK1425,City Hotel,2024-03-01,11,Single,3,Afghanistan,FB,Confirmed,194,Non Refundable,419.36,640.34
+BK1426,Resort Hotel,2024-03-02,13,Suite,5,Montserrat,No Meal,Canceled,122,No Deposit,210.32,2493.78
+BK1427,Resort Hotel,2024-03-03,11,Single,3,Cote d'Ivoire,BB,No Show,203,No Deposit,345.7,4529.75
+BK1428,Resort Hotel,2024-03-04,8,Single,5,New Zealand,HB,Canceled,109,Non Refundable,336.26,3637.83
+BK1429,Resort Hotel,2024-03-05,15,Double,5,Sudan,HB,Canceled,24,Non Refundable,202.59,2031.56
+BK1430,City Hotel,2024-03-06,7,Family,3,Ghana,No Meal,Confirmed,271,Refundable,127.68,2857.73
+BK1431,Resort Hotel,2024-03-07,3,Single,1,United States Virgin Islands,HB,Canceled,27,Non Refundable,462.88,3831.36
+BK1432,City Hotel,2024-03-08,12,Suite,2,Nigeria,FB,Confirmed,67,Non Refundable,256.37,612.16
+BK1433,Resort Hotel,2024-03-09,11,Suite,3,Palestinian Territory,BB,No Show,138,Non Refundable,326.88,3417.37
+BK1434,Resort Hotel,2024-03-10,9,Double,4,Saint Lucia,No Meal,No Show,184,Refundable,134.72,4090.74
+BK1435,Resort Hotel,2024-03-11,7,Single,4,Brunei Darussalam,BB,Confirmed,242,No Deposit,78.66,3113.4
+BK1436,City Hotel,2024-03-12,14,Double,4,Uganda,HB,No Show,51,No Deposit,495.15,4523.98
+BK1437,Resort Hotel,2024-03-13,12,Single,2,Singapore,HB,Canceled,9,Non Refundable,118.37,3922.78
+BK1438,Resort Hotel,2024-03-14,15,Double,3,Norway,BB,Canceled,55,Refundable,117.28,3064.64
+BK1439,City Hotel,2024-03-15,12,Suite,2,Guam,No Meal,Canceled,188,Refundable,199.44,1084.0
+BK1440,City Hotel,2024-03-16,5,Double,2,Mozambique,BB,Canceled,88,No Deposit,173.09,487.12
+BK1441,City Hotel,2024-03-17,6,Double,5,Syrian Arab Republic,No Meal,Canceled,84,Non Refundable,321.27,2942.91
+BK1442,Resort Hotel,2024-03-18,1,Family,1,Palestinian Territory,No Meal,Canceled,97,No Deposit,450.94,2111.69
+BK1443,Resort Hotel,2024-03-19,1,Family,5,Guernsey,FB,Canceled,168,Non Refundable,421.57,766.66
+BK1444,Resort Hotel,2024-03-20,4,Double,5,Papua New Guinea,BB,No Show,94,Non Refundable,434.39,1993.44
+BK1445,City Hotel,2024-03-21,1,Single,1,Equatorial Guinea,No Meal,No Show,91,Refundable,394.39,889.14
+BK1446,Resort Hotel,2024-03-22,9,Double,5,Nauru,BB,Confirmed,20,Refundable,387.86,1594.71
+BK1447,Resort Hotel,2024-03-23,10,Suite,5,Faroe Islands,No Meal,Canceled,56,No Deposit,277.13,191.8
+BK1448,Resort Hotel,2024-03-24,1,Single,1,Mayotte,FB,No Show,171,No Deposit,141.17,3842.44
+BK1449,City Hotel,2024-03-25,15,Single,1,Bangladesh,HB,No Show,144,No Deposit,377.72,518.67
+BK1450,Resort Hotel,2024-03-26,5,Family,5,Paraguay,No Meal,Confirmed,226,Non Refundable,169.72,1610.15
+BK1451,Resort Hotel,2024-03-27,11,Suite,3,Togo,FB,Confirmed,138,Non Refundable,493.03,2404.66
+BK1452,Resort Hotel,2024-03-28,1,Family,4,Ethiopia,FB,Confirmed,9,Refundable,141.63,2522.44
+BK1453,Resort Hotel,2024-03-29,10,Double,3,Christmas Island,BB,Confirmed,251,Refundable,205.76,2380.0
+BK1454,Resort Hotel,2024-03-30,7,Double,4,Romania,FB,Confirmed,295,Refundable,434.44,3600.42
+BK1455,Resort Hotel,2024-03-31,6,Family,2,Norfolk Island,No Meal,No Show,72,Non Refundable,258.89,3237.7
+BK1456,Resort Hotel,2024-04-01,2,Single,4,Cambodia,FB,No Show,249,No Deposit,281.29,4315.93
+BK1457,City Hotel,2024-04-02,9,Family,2,Japan,No Meal,Confirmed,144,No Deposit,464.08,3369.87
+BK1458,Resort Hotel,2024-04-03,12,Single,5,Iceland,BB,Confirmed,134,Non Refundable,478.57,1424.52
+BK1459,City Hotel,2024-04-04,13,Suite,4,Pitcairn Islands,BB,Canceled,25,Refundable,129.92,3924.75
+BK1460,City Hotel,2024-04-05,10,Single,5,Puerto Rico,HB,Canceled,148,Refundable,335.71,451.78
+BK1461,Resort Hotel,2024-04-06,6,Suite,4,Lithuania,BB,Canceled,103,Refundable,282.94,3536.3
+BK1462,City Hotel,2024-04-07,7,Suite,4,Northern Mariana Islands,BB,Canceled,2,Non Refundable,232.74,3156.01
+BK1463,Resort Hotel,2024-04-08,13,Double,4,Sweden,BB,Confirmed,70,Non Refundable,148.81,4469.34
+BK1464,Resort Hotel,2024-04-09,9,Family,4,El Salvador,HB,Canceled,263,No Deposit,82.7,633.31
+BK1465,Resort Hotel,2024-04-10,1,Family,5,Kuwait,FB,Canceled,105,Non Refundable,305.25,2967.47
+BK1466,City Hotel,2024-04-11,5,Suite,5,Western Sahara,BB,Canceled,74,Non Refundable,136.97,2721.32
+BK1467,Resort Hotel,2024-04-12,12,Family,4,Heard Island and McDonald Islands,FB,No Show,297,Refundable,58.91,545.48
+BK1468,Resort Hotel,2024-04-13,15,Double,1,Turkey,HB,Canceled,7,Refundable,255.28,4583.36
+BK1469,Resort Hotel,2024-04-14,1,Double,1,El Salvador,HB,Confirmed,29,Refundable,474.13,1174.61
+BK1470,Resort Hotel,2024-04-15,14,Family,5,Congo,No Meal,Canceled,60,Non Refundable,352.92,3870.85
+BK1471,City Hotel,2024-04-16,6,Double,2,Isle of Man,FB,No Show,166,Non Refundable,229.6,2379.08
+BK1472,City Hotel,2024-04-17,15,Double,5,Nicaragua,No Meal,Confirmed,13,Refundable,161.78,2329.35
+BK1473,Resort Hotel,2024-04-18,1,Suite,4,Madagascar,FB,No Show,74,No Deposit,374.27,4476.81
+BK1474,City Hotel,2024-04-19,12,Single,5,Yemen,BB,Confirmed,263,Refundable,54.37,4433.64
+BK1475,City Hotel,2024-04-20,10,Family,5,Papua New Guinea,No Meal,Confirmed,6,No Deposit,360.76,1119.72
+BK1476,Resort Hotel,2024-04-21,3,Double,5,Trinidad and Tobago,BB,No Show,143,Non Refundable,372.64,2391.91
+BK1477,City Hotel,2024-04-22,6,Single,3,Indonesia,No Meal,No Show,91,Non Refundable,249.69,513.56
+BK1478,City Hotel,2024-04-23,1,Single,3,Mozambique,BB,Canceled,234,No Deposit,315.95,2993.28
+BK1479,Resort Hotel,2024-04-24,8,Single,4,Palestinian Territory,FB,Canceled,64,Refundable,75.76,606.67
+BK1480,Resort Hotel,2024-04-25,5,Suite,1,Germany,FB,No Show,293,Refundable,54.34,4805.4
+BK1481,City Hotel,2024-04-26,13,Single,1,Jordan,FB,Confirmed,271,Refundable,243.82,4794.49
+BK1482,Resort Hotel,2024-04-27,2,Single,3,French Southern Territories,No Meal,No Show,265,No Deposit,236.95,1418.69
+BK1483,Resort Hotel,2024-04-28,7,Suite,5,Solomon Islands,BB,Confirmed,151,No Deposit,257.34,4739.21
+BK1484,City Hotel,2024-04-29,7,Suite,1,China,HB,Canceled,196,Refundable,335.56,1900.21
+BK1485,Resort Hotel,2024-04-30,5,Suite,2,Myanmar,No Meal,Confirmed,95,Non Refundable,245.41,4226.41
+BK1486,City Hotel,2024-05-01,2,Suite,4,Bahrain,FB,Canceled,26,Non Refundable,465.52,1412.16
+BK1487,Resort Hotel,2024-05-02,3,Double,4,Afghanistan,HB,No Show,19,Non Refundable,446.91,4393.81
+BK1488,City Hotel,2024-05-03,8,Double,4,Botswana,BB,No Show,264,Non Refundable,420.6,4343.31
+BK1489,City Hotel,2024-05-04,11,Suite,5,Seychelles,FB,No Show,163,No Deposit,212.04,3452.62
+BK1490,City Hotel,2024-05-05,10,Single,4,Falkland Islands (Malvinas),BB,No Show,234,Refundable,78.65,411.66
+BK1491,Resort Hotel,2024-05-06,7,Double,3,Paraguay,HB,No Show,152,Refundable,226.81,1658.44
+BK1492,City Hotel,2024-05-07,6,Double,5,Costa Rica,No Meal,Confirmed,255,Refundable,378.19,4732.89
+BK1493,City Hotel,2024-05-08,7,Family,2,Qatar,FB,Confirmed,11,No Deposit,437.03,4703.3
+BK1494,Resort Hotel,2024-05-09,3,Double,5,Montenegro,FB,Canceled,228,Refundable,405.05,832.71
+BK1495,Resort Hotel,2024-05-10,4,Suite,5,French Southern Territories,BB,Canceled,6,Refundable,246.41,2805.37
+BK1496,City Hotel,2024-05-11,14,Suite,3,Gibraltar,FB,No Show,18,Non Refundable,489.79,2984.27
+BK1497,Resort Hotel,2024-05-12,1,Family,2,Nigeria,HB,Confirmed,80,Non Refundable,453.72,2364.27
+BK1498,City Hotel,2024-05-13,6,Double,4,Tajikistan,No Meal,Canceled,59,Non Refundable,277.83,3764.37
+BK1499,City Hotel,2024-05-14,5,Double,2,Ghana,No Meal,No Show,59,No Deposit,119.3,3463.45
+BK1500,Resort Hotel,2024-05-15,1,Double,4,Chad,FB,No Show,140,Non Refundable,84.41,3456.28
+BK1501,City Hotel,2024-05-16,10,Family,3,Somalia,HB,Canceled,281,Non Refundable,58.74,469.61
+BK1502,City Hotel,2024-05-17,1,Family,4,Haiti,FB,Canceled,150,No Deposit,113.02,355.47
+BK1503,City Hotel,2024-05-18,2,Double,5,Senegal,HB,No Show,15,Refundable,317.28,2797.54
+BK1504,City Hotel,2024-05-19,15,Double,2,Spain,BB,Confirmed,214,Refundable,143.02,1679.07
+BK1505,Resort Hotel,2024-05-20,2,Family,3,Saint Helena,HB,Confirmed,277,No Deposit,277.11,1189.39
+BK1506,City Hotel,2024-05-21,5,Double,5,New Zealand,HB,No Show,67,Refundable,457.85,3541.06
+BK1507,Resort Hotel,2024-05-22,5,Family,3,Hungary,HB,Confirmed,105,Refundable,395.53,3269.52
+BK1508,Resort Hotel,2024-05-23,13,Family,4,Sudan,BB,No Show,29,Refundable,349.97,1142.97
+BK1509,City Hotel,2024-05-24,15,Suite,1,France,No Meal,No Show,61,Refundable,290.21,1030.24
+BK1510,Resort Hotel,2024-05-25,7,Family,1,South Africa,BB,Confirmed,297,Non Refundable,462.62,4081.98
+BK1511,Resort Hotel,2024-05-26,1,Suite,3,Qatar,FB,Confirmed,188,Refundable,110.73,3671.75
+BK1512,Resort Hotel,2024-05-27,6,Single,3,Uganda,No Meal,No Show,17,Refundable,446.82,3787.34
+BK1513,Resort Hotel,2024-05-28,4,Double,2,Tunisia,BB,No Show,91,Refundable,245.6,315.42
+BK1514,Resort Hotel,2024-05-29,3,Suite,2,Ghana,HB,Confirmed,15,No Deposit,364.39,1995.94
+BK1515,City Hotel,2024-05-30,8,Suite,4,Armenia,BB,Canceled,245,Refundable,426.85,410.29
+BK1516,City Hotel,2024-05-31,9,Suite,3,Liberia,BB,Canceled,276,No Deposit,458.19,2833.04
+BK1517,Resort Hotel,2024-06-01,7,Single,4,Belgium,HB,No Show,100,Non Refundable,386.7,1294.87
+BK1518,City Hotel,2024-06-02,1,Double,4,Bermuda,HB,Confirmed,280,Refundable,481.83,4804.03
+BK1519,Resort Hotel,2024-06-03,15,Suite,1,Slovenia,No Meal,No Show,218,Refundable,382.96,4214.4
+BK1520,City Hotel,2024-06-04,1,Double,2,Tonga,BB,Confirmed,176,Refundable,220.59,1830.39
+BK1521,Resort Hotel,2024-06-05,8,Single,3,Svalbard & Jan Mayen Islands,BB,Canceled,160,Refundable,101.32,2324.54
+BK1522,City Hotel,2024-06-06,7,Suite,1,Sudan,BB,Confirmed,291,Non Refundable,467.89,2824.36
+BK1523,Resort Hotel,2024-06-07,1,Double,4,Cape Verde,No Meal,No Show,106,Non Refundable,147.99,2135.96
+BK1524,City Hotel,2024-06-08,11,Family,4,Senegal,No Meal,No Show,277,Non Refundable,221.48,1434.36
+BK1525,Resort Hotel,2024-06-09,14,Family,1,French Polynesia,No Meal,No Show,21,Refundable,200.71,4773.26
+BK1526,Resort Hotel,2024-06-10,8,Double,4,Israel,No Meal,Confirmed,168,Non Refundable,465.94,4277.5
+BK1527,City Hotel,2024-06-11,7,Single,5,Zimbabwe,FB,Confirmed,49,Non Refundable,199.94,3166.24
+BK1528,Resort Hotel,2024-06-12,6,Single,1,Sudan,No Meal,Confirmed,140,Non Refundable,101.34,1800.01
+BK1529,City Hotel,2024-06-13,2,Suite,4,Ethiopia,No Meal,Confirmed,186,Non Refundable,326.42,250.39
+BK1530,City Hotel,2024-06-14,12,Family,5,Colombia,HB,Canceled,115,Non Refundable,398.18,2413.16
+BK1531,Resort Hotel,2024-06-15,3,Family,1,Thailand,FB,No Show,256,No Deposit,206.82,3955.94
+BK1532,Resort Hotel,2024-06-16,7,Double,3,Papua New Guinea,HB,Canceled,288,Non Refundable,92.02,1599.3
+BK1533,Resort Hotel,2024-06-17,5,Suite,2,Mexico,FB,Confirmed,72,No Deposit,342.68,3750.63
+BK1534,City Hotel,2024-06-18,5,Suite,5,Mongolia,HB,Canceled,103,Refundable,57.08,2746.94
+BK1535,Resort Hotel,2024-06-19,9,Single,2,United States Minor Outlying Islands,HB,Confirmed,241,Non Refundable,109.51,4372.08
+BK1536,Resort Hotel,2024-06-20,4,Double,2,Spain,FB,Confirmed,240,Non Refundable,165.85,4399.48
+BK1537,Resort Hotel,2024-06-21,15,Single,2,Burkina Faso,BB,Confirmed,163,Non Refundable,111.41,2991.74
+BK1538,City Hotel,2024-06-22,8,Family,4,Lao People's Democratic Republic,No Meal,Canceled,167,Non Refundable,256.14,661.05
+BK1539,City Hotel,2024-06-23,9,Double,2,Slovakia (Slovak Republic),FB,Confirmed,1,Non Refundable,141.34,1201.41
+BK1540,City Hotel,2024-06-24,3,Single,1,Tajikistan,No Meal,Canceled,83,Refundable,485.32,1837.24
+BK1541,Resort Hotel,2024-06-25,6,Family,2,Cambodia,BB,No Show,56,Refundable,169.61,1331.5
+BK1542,Resort Hotel,2024-06-26,1,Double,5,Sudan,BB,Canceled,25,Non Refundable,184.11,2403.29
+BK1543,City Hotel,2024-06-27,5,Single,1,Ghana,FB,Canceled,285,Refundable,141.75,390.86
+BK1544,City Hotel,2024-06-28,9,Suite,3,Saint Lucia,HB,Canceled,270,Refundable,286.97,4316.91
+BK1545,City Hotel,2024-06-29,15,Suite,3,Pakistan,FB,Confirmed,190,No Deposit,318.64,4151.1
+BK1546,Resort Hotel,2024-06-30,4,Single,1,Myanmar,No Meal,No Show,258,Refundable,133.43,2494.82
+BK1547,City Hotel,2024-07-01,3,Double,1,Bhutan,HB,Canceled,147,No Deposit,285.02,2411.04
+BK1548,Resort Hotel,2024-07-02,7,Family,5,Jamaica,FB,Canceled,93,No Deposit,295.72,774.28
+BK1549,Resort Hotel,2024-07-03,6,Single,5,Iraq,FB,No Show,19,Refundable,64.8,1666.49
+BK1550,Resort Hotel,2024-07-04,6,Suite,3,Senegal,HB,Canceled,123,Non Refundable,146.4,2758.4
+BK1551,City Hotel,2024-07-05,12,Double,2,Guadeloupe,No Meal,Canceled,193,Refundable,335.1,3166.44
+BK1552,City Hotel,2024-07-06,14,Single,3,Mexico,No Meal,Confirmed,27,Refundable,149.72,1288.93
+BK1553,City Hotel,2024-07-07,6,Family,4,Italy,BB,Confirmed,107,Refundable,114.94,923.76
+BK1554,Resort Hotel,2024-07-08,14,Single,2,Malaysia,BB,Canceled,186,Non Refundable,211.41,3228.19
+BK1555,Resort Hotel,2024-07-09,13,Double,4,Bahrain,No Meal,Canceled,141,Refundable,83.94,2143.08
+BK1556,Resort Hotel,2024-07-10,5,Family,5,Malaysia,FB,Confirmed,10,Non Refundable,256.25,1611.84
+BK1557,Resort Hotel,2024-07-11,5,Double,2,New Zealand,No Meal,No Show,62,No Deposit,419.7,3008.8
+BK1558,Resort Hotel,2024-07-12,11,Double,5,Montenegro,HB,No Show,217,Refundable,169.59,3616.39
+BK1559,City Hotel,2024-07-13,8,Suite,1,Netherlands,FB,No Show,67,Non Refundable,112.8,1691.78
+BK1560,City Hotel,2024-07-14,11,Suite,2,Latvia,FB,Canceled,74,No Deposit,146.37,1116.45
+BK1561,Resort Hotel,2024-07-15,11,Double,2,Zimbabwe,HB,Confirmed,13,Refundable,166.67,443.17
+BK1562,Resort Hotel,2024-07-16,5,Suite,3,Namibia,HB,Confirmed,179,Non Refundable,493.47,4361.04
+BK1563,City Hotel,2024-07-17,8,Single,3,Wallis and Futuna,No Meal,No Show,16,No Deposit,134.81,1977.05
+BK1564,City Hotel,2024-07-18,15,Single,2,Italy,No Meal,No Show,93,Refundable,315.6,2825.74
+BK1565,Resort Hotel,2024-07-19,14,Suite,1,French Southern Territories,BB,Confirmed,150,No Deposit,74.67,1394.72
+BK1566,Resort Hotel,2024-07-20,15,Suite,3,Egypt,No Meal,No Show,113,Non Refundable,173.83,3193.39
+BK1567,City Hotel,2024-07-21,2,Double,2,Armenia,No Meal,Confirmed,276,Refundable,352.85,2678.85
+BK1568,City Hotel,2024-07-22,15,Single,5,Greenland,BB,No Show,210,Refundable,131.26,3979.34
+BK1569,City Hotel,2024-07-23,8,Single,2,Pakistan,No Meal,Confirmed,248,No Deposit,182.82,3357.4
+BK1570,Resort Hotel,2024-07-24,4,Family,4,Yemen,BB,Confirmed,277,No Deposit,239.03,145.12
+BK1571,Resort Hotel,2024-07-25,14,Double,1,Antigua and Barbuda,BB,No Show,169,Refundable,485.42,572.21
+BK1572,City Hotel,2024-07-26,5,Single,5,Madagascar,HB,No Show,126,No Deposit,462.74,137.89
+BK1573,City Hotel,2024-07-27,8,Family,4,Suriname,HB,No Show,175,Refundable,204.51,4574.52
+BK1574,Resort Hotel,2024-07-28,5,Single,4,Spain,HB,Canceled,258,Refundable,372.97,1416.27
+BK1575,City Hotel,2024-07-29,9,Family,5,Suriname,No Meal,Canceled,101,No Deposit,255.56,1729.83
+BK1576,Resort Hotel,2024-07-30,1,Single,3,Canada,BB,Canceled,114,No Deposit,254.99,3561.19
+BK1577,Resort Hotel,2024-07-31,4,Family,3,Cyprus,No Meal,Confirmed,261,No Deposit,111.89,3053.37
+BK1578,City Hotel,2024-08-01,6,Suite,2,Gambia,FB,Confirmed,8,No Deposit,439.26,4009.66
+BK1579,City Hotel,2024-08-02,7,Suite,4,Saint Lucia,HB,No Show,180,Refundable,332.12,1809.06
+BK1580,Resort Hotel,2024-08-03,1,Single,3,Antarctica (the territory South of 60 deg S),BB,Confirmed,255,Non Refundable,320.03,311.36
+BK1581,Resort Hotel,2024-08-04,12,Suite,4,Liberia,BB,Confirmed,287,Refundable,164.52,4116.97
+BK1582,City Hotel,2024-08-05,1,Suite,4,Cape Verde,No Meal,Canceled,284,No Deposit,216.67,4196.04
+BK1583,City Hotel,2024-08-06,5,Family,3,Ghana,FB,Confirmed,175,No Deposit,447.72,3845.61
+BK1584,City Hotel,2024-08-07,14,Double,3,Thailand,BB,Confirmed,59,Refundable,387.78,756.17
+BK1585,City Hotel,2024-08-08,13,Family,1,Switzerland,FB,Canceled,263,Non Refundable,430.44,1749.61
+BK1586,Resort Hotel,2024-08-09,2,Family,1,Thailand,FB,No Show,49,Refundable,230.95,4611.56
+BK1587,City Hotel,2024-08-10,8,Single,5,Russian Federation,No Meal,No Show,276,No Deposit,97.38,940.39
+BK1588,Resort Hotel,2024-08-11,12,Family,2,Suriname,FB,No Show,88,Refundable,452.63,1093.42
+BK1589,City Hotel,2024-08-12,12,Double,5,Bermuda,BB,Confirmed,212,No Deposit,297.38,1666.62
+BK1590,Resort Hotel,2024-08-13,6,Family,5,Tokelau,BB,Confirmed,102,Refundable,289.66,3964.56
+BK1591,City Hotel,2024-08-14,11,Double,1,Mexico,BB,No Show,67,Non Refundable,440.82,4122.43
+BK1592,City Hotel,2024-08-15,7,Family,2,Maldives,HB,No Show,143,No Deposit,373.24,1729.36
+BK1593,City Hotel,2024-08-16,14,Family,4,Falkland Islands (Malvinas),No Meal,Canceled,258,No Deposit,447.4,2703.06
+BK1594,Resort Hotel,2024-08-17,13,Double,5,Latvia,FB,Confirmed,244,No Deposit,274.35,2788.63
+BK1595,City Hotel,2024-08-18,12,Single,4,Palau,No Meal,Confirmed,83,Non Refundable,380.97,734.8
+BK1596,City Hotel,2024-08-19,15,Single,2,Somalia,HB,Canceled,127,Non Refundable,278.75,1623.08
+BK1597,Resort Hotel,2024-08-20,4,Family,1,Jamaica,BB,No Show,56,Refundable,368.12,2976.18
+BK1598,City Hotel,2024-08-21,4,Family,5,Lithuania,No Meal,Canceled,187,No Deposit,332.57,3787.29
+BK1599,Resort Hotel,2024-08-22,4,Double,1,Benin,HB,Canceled,217,No Deposit,220.14,4794.38
+BK1600,City Hotel,2024-08-23,12,Family,2,Monaco,BB,No Show,159,Non Refundable,390.54,3962.77
+BK1601,Resort Hotel,2024-08-24,6,Double,1,Saint Lucia,BB,No Show,213,Refundable,322.02,2568.04
+BK1602,Resort Hotel,2024-08-25,1,Double,2,Wallis and Futuna,FB,Canceled,200,Non Refundable,468.73,3685.27
+BK1603,City Hotel,2024-08-26,5,Suite,4,Vietnam,No Meal,Confirmed,80,Refundable,449.27,2386.71
+BK1604,City Hotel,2024-08-27,2,Family,2,Bahrain,FB,Canceled,176,Non Refundable,239.0,4009.94
+BK1605,Resort Hotel,2024-08-28,13,Single,1,United States Virgin Islands,No Meal,No Show,231,Refundable,212.82,3668.82
+BK1606,Resort Hotel,2024-08-29,14,Double,5,Bermuda,FB,No Show,270,Refundable,405.77,2312.54
+BK1607,City Hotel,2024-08-30,9,Double,4,Denmark,BB,Canceled,88,No Deposit,228.99,3744.69
+BK1608,Resort Hotel,2024-08-31,12,Suite,2,Gabon,BB,Canceled,142,Refundable,340.77,2928.47
+BK1609,City Hotel,2024-09-01,6,Suite,4,Bahrain,BB,Confirmed,124,No Deposit,73.61,3739.47
+BK1610,City Hotel,2024-09-02,13,Suite,5,Afghanistan,HB,Canceled,179,Refundable,201.62,132.39
+BK1611,Resort Hotel,2024-09-03,2,Family,4,Belarus,HB,No Show,245,Non Refundable,198.6,3023.09
+BK1612,Resort Hotel,2024-09-04,12,Single,3,Netherlands Antilles,HB,Canceled,238,Refundable,295.98,4906.64
+BK1613,City Hotel,2024-09-05,12,Family,4,Samoa,BB,No Show,16,No Deposit,120.56,604.08
+BK1614,City Hotel,2024-09-06,6,Suite,1,Hong Kong,No Meal,No Show,192,No Deposit,171.11,2240.14
+BK1615,Resort Hotel,2024-09-07,6,Family,3,Lao People's Democratic Republic,FB,Canceled,297,Refundable,306.65,811.02
+BK1616,City Hotel,2024-09-08,2,Double,4,Liechtenstein,HB,Canceled,234,Refundable,469.57,4314.74
+BK1617,City Hotel,2024-09-09,14,Suite,3,Heard Island and McDonald Islands,FB,No Show,274,No Deposit,243.21,840.56
+BK1618,Resort Hotel,2024-09-10,10,Family,2,Lesotho,HB,Canceled,48,No Deposit,398.2,662.57
+BK1619,City Hotel,2024-09-11,15,Double,2,Djibouti,FB,Canceled,10,No Deposit,365.1,329.01
+BK1620,Resort Hotel,2024-09-12,7,Double,5,Cameroon,BB,Canceled,279,Non Refundable,291.17,1139.29
+BK1621,Resort Hotel,2024-09-13,1,Suite,5,Germany,HB,Confirmed,1,Refundable,105.88,3220.86
+BK1622,City Hotel,2024-09-14,10,Single,1,Tokelau,FB,No Show,24,Non Refundable,100.04,2586.06
+BK1623,Resort Hotel,2024-09-15,14,Suite,4,Suriname,HB,No Show,164,Non Refundable,107.3,3301.66
+BK1624,Resort Hotel,2024-09-16,15,Double,4,Czech Republic,HB,No Show,171,Refundable,412.47,3968.7
+BK1625,City Hotel,2024-09-17,2,Single,5,Uganda,HB,Canceled,274,No Deposit,435.51,629.79
+BK1626,Resort Hotel,2024-09-18,1,Single,4,Ukraine,FB,Confirmed,41,No Deposit,483.92,1945.79
+BK1627,Resort Hotel,2024-09-19,9,Single,2,Libyan Arab Jamahiriya,BB,No Show,139,Refundable,316.61,4306.05
+BK1628,Resort Hotel,2024-09-20,14,Double,4,Croatia,HB,No Show,198,Refundable,316.96,3326.93
+BK1629,Resort Hotel,2024-09-21,12,Family,1,Germany,BB,No Show,160,Non Refundable,110.27,2923.5
+BK1630,Resort Hotel,2024-09-22,5,Family,4,Thailand,FB,Confirmed,273,Refundable,266.83,1963.18
+BK1631,Resort Hotel,2024-09-23,5,Family,4,French Guiana,BB,Confirmed,123,Non Refundable,148.91,3694.14
+BK1632,Resort Hotel,2024-09-24,9,Suite,3,Guernsey,FB,No Show,219,Non Refundable,177.7,1167.17
+BK1633,Resort Hotel,2024-09-25,9,Suite,4,Venezuela,HB,No Show,85,Refundable,334.12,4497.41
+BK1634,Resort Hotel,2024-09-26,15,Double,4,Brazil,No Meal,Canceled,24,Refundable,400.6,2617.67
+BK1635,Resort Hotel,2024-09-27,3,Suite,5,Syrian Arab Republic,FB,Confirmed,71,Refundable,303.25,481.99
+BK1636,City Hotel,2024-09-28,8,Single,1,Guinea-Bissau,HB,Confirmed,52,No Deposit,401.66,616.35
+BK1637,City Hotel,2024-09-29,14,Single,5,Guinea,No Meal,Canceled,21,Refundable,317.95,807.57
+BK1638,Resort Hotel,2024-09-30,1,Single,5,Reunion,FB,Canceled,139,Refundable,355.36,178.23
+BK1639,City Hotel,2024-10-01,2,Double,2,Fiji,BB,Canceled,296,Non Refundable,451.26,1974.89
+BK1640,Resort Hotel,2024-10-02,11,Single,5,Philippines,BB,No Show,228,Non Refundable,406.36,934.22
+BK1641,Resort Hotel,2024-10-03,7,Single,3,Madagascar,No Meal,No Show,36,Refundable,260.98,1438.53
+BK1642,Resort Hotel,2024-10-04,11,Suite,5,United States Minor Outlying Islands,HB,No Show,163,No Deposit,374.84,2038.89
+BK1643,Resort Hotel,2024-10-05,6,Suite,5,Macao,FB,No Show,248,Non Refundable,263.51,1705.18
+BK1644,Resort Hotel,2024-10-06,9,Double,3,Sierra Leone,HB,Confirmed,118,Refundable,246.47,4956.45
+BK1645,City Hotel,2024-10-07,11,Family,3,Angola,HB,No Show,80,Refundable,207.63,287.03
+BK1646,City Hotel,2024-10-08,1,Suite,1,Palestinian Territory,FB,No Show,220,Non Refundable,96.59,2994.06
+BK1647,Resort Hotel,2024-10-09,3,Single,4,Iran,BB,Confirmed,152,No Deposit,260.7,1719.35
+BK1648,Resort Hotel,2024-10-10,15,Family,3,Isle of Man,FB,Confirmed,241,No Deposit,380.48,4684.28
+BK1649,Resort Hotel,2024-10-11,1,Single,2,Afghanistan,No Meal,Canceled,50,Refundable,106.74,1812.07
+BK1650,Resort Hotel,2024-10-12,9,Suite,3,Gabon,No Meal,Canceled,264,Non Refundable,358.83,3558.04
+BK1651,City Hotel,2024-10-13,13,Suite,3,Togo,No Meal,Confirmed,12,Refundable,259.93,1075.28
+BK1652,Resort Hotel,2024-10-14,2,Suite,2,Korea,BB,Confirmed,58,Refundable,493.4,1821.97
+BK1653,City Hotel,2024-10-15,9,Suite,1,Saint Vincent and the Grenadines,FB,Confirmed,167,No Deposit,412.28,803.88
+BK1654,Resort Hotel,2024-10-16,14,Single,2,Bahrain,No Meal,Canceled,272,Non Refundable,498.49,2946.3
+BK1655,Resort Hotel,2024-10-17,12,Double,5,Monaco,FB,Confirmed,48,Non Refundable,298.48,3036.69
+BK1656,City Hotel,2024-10-18,10,Suite,2,Trinidad and Tobago,FB,Canceled,67,Refundable,53.5,4589.39
+BK1657,Resort Hotel,2024-10-19,2,Single,1,Jersey,FB,Confirmed,67,No Deposit,292.69,3380.62
+BK1658,City Hotel,2024-10-20,2,Family,3,Ireland,BB,Confirmed,261,No Deposit,183.52,2962.22
+BK1659,City Hotel,2024-10-21,7,Family,1,Australia,HB,No Show,118,No Deposit,169.8,3326.48
+BK1660,Resort Hotel,2024-10-22,5,Double,5,Cook Islands,FB,No Show,159,Refundable,439.08,4677.41
+BK1661,City Hotel,2024-10-23,11,Suite,5,Cambodia,No Meal,No Show,53,No Deposit,297.94,3889.8
+BK1662,City Hotel,2024-10-24,13,Single,3,Cape Verde,No Meal,Canceled,36,No Deposit,290.83,4160.11
+BK1663,Resort Hotel,2024-10-25,5,Suite,4,Cameroon,FB,No Show,115,No Deposit,470.94,1201.06
+BK1664,City Hotel,2024-10-26,10,Suite,1,Iceland,FB,Canceled,20,Refundable,382.23,710.25
+BK1665,Resort Hotel,2024-10-27,14,Double,3,Namibia,HB,Confirmed,238,Refundable,190.24,2400.32
+BK1666,Resort Hotel,2024-10-28,9,Single,5,Cook Islands,BB,Canceled,283,Refundable,196.85,1156.02
+BK1667,Resort Hotel,2024-10-29,6,Double,1,Turks and Caicos Islands,HB,Canceled,208,Refundable,485.24,3776.09
+BK1668,Resort Hotel,2024-10-30,6,Family,1,Tokelau,BB,No Show,48,Refundable,494.77,3298.18
+BK1669,City Hotel,2024-10-31,6,Single,2,Liechtenstein,FB,Confirmed,169,Non Refundable,133.58,3530.56
+BK1670,Resort Hotel,2024-11-01,14,Double,5,Peru,FB,Canceled,116,Refundable,117.42,4078.18
+BK1671,Resort Hotel,2024-11-02,12,Single,3,New Caledonia,HB,Canceled,206,Refundable,217.05,1279.02
+BK1672,Resort Hotel,2024-11-03,13,Double,2,Guatemala,FB,Confirmed,89,Refundable,260.94,483.94
+BK1673,City Hotel,2024-11-04,9,Double,2,Liechtenstein,BB,Canceled,185,Refundable,303.21,1976.99
+BK1674,City Hotel,2024-11-05,14,Family,3,Chile,BB,No Show,262,Refundable,296.81,3657.28
+BK1675,Resort Hotel,2024-11-06,14,Single,3,Jordan,FB,Canceled,231,Refundable,227.48,3286.96
+BK1676,City Hotel,2024-11-07,4,Double,2,Paraguay,HB,Confirmed,183,Non Refundable,229.1,413.2
+BK1677,City Hotel,2024-11-08,5,Family,1,Estonia,HB,Confirmed,209,No Deposit,78.13,437.85
+BK1678,City Hotel,2024-11-09,9,Family,1,Bulgaria,No Meal,Confirmed,201,Non Refundable,194.04,4339.89
+BK1679,Resort Hotel,2024-11-10,10,Single,5,Afghanistan,BB,No Show,133,Non Refundable,331.39,397.47
+BK1680,City Hotel,2024-11-11,4,Double,1,Costa Rica,No Meal,No Show,178,Non Refundable,164.72,1065.71
+BK1681,Resort Hotel,2024-11-12,9,Single,3,Luxembourg,FB,No Show,213,Refundable,284.71,2160.79
+BK1682,City Hotel,2024-11-13,6,Double,3,Mali,FB,Canceled,52,No Deposit,166.43,4713.72
+BK1683,Resort Hotel,2024-11-14,9,Family,1,Falkland Islands (Malvinas),No Meal,Confirmed,18,Refundable,101.92,2612.2
+BK1684,City Hotel,2024-11-15,1,Double,4,Ghana,No Meal,No Show,211,No Deposit,229.62,313.93
+BK1685,City Hotel,2024-11-16,14,Double,2,Nepal,FB,Confirmed,118,Non Refundable,352.81,517.29
+BK1686,Resort Hotel,2024-11-17,14,Double,1,Costa Rica,FB,No Show,175,Refundable,188.15,162.98
+BK1687,City Hotel,2024-11-18,3,Suite,5,Solomon Islands,FB,Confirmed,125,No Deposit,300.11,1382.67
+BK1688,Resort Hotel,2024-11-19,2,Family,5,Mexico,No Meal,No Show,86,No Deposit,417.5,2225.13
+BK1689,City Hotel,2024-11-20,11,Family,1,Korea,BB,No Show,196,No Deposit,188.01,2088.99
+BK1690,City Hotel,2024-11-21,11,Double,5,Mongolia,HB,Canceled,112,Non Refundable,89.38,340.08
+BK1691,City Hotel,2024-11-22,8,Double,1,Myanmar,BB,Confirmed,138,Non Refundable,368.64,2700.37
+BK1692,City Hotel,2024-11-23,9,Family,5,Tuvalu,FB,No Show,156,No Deposit,329.81,1527.9
+BK1693,City Hotel,2024-11-24,7,Double,1,Argentina,HB,Canceled,199,Non Refundable,465.37,4449.57
+BK1694,Resort Hotel,2024-11-25,1,Single,5,Comoros,BB,Confirmed,220,Refundable,264.79,3440.35
+BK1695,Resort Hotel,2024-11-26,7,Single,4,Turkey,HB,Confirmed,291,Refundable,81.07,4880.42
+BK1696,Resort Hotel,2024-11-27,13,Suite,2,Tunisia,BB,Canceled,244,No Deposit,334.92,548.38
+BK1697,City Hotel,2024-11-28,3,Single,3,Saint Kitts and Nevis,HB,No Show,85,Non Refundable,368.54,3928.49
+BK1698,City Hotel,2024-11-29,5,Single,5,Andorra,No Meal,Canceled,186,Non Refundable,472.77,2299.02
+BK1699,Resort Hotel,2024-11-30,9,Family,4,Pakistan,No Meal,Canceled,21,No Deposit,77.58,2525.79
+BK1700,Resort Hotel,2024-12-01,15,Double,5,Mauritania,FB,No Show,154,Non Refundable,215.13,631.32
+BK1701,City Hotel,2024-12-02,9,Suite,1,Kyrgyz Republic,FB,Canceled,164,Non Refundable,121.2,2464.93
+BK1702,City Hotel,2024-12-03,2,Suite,4,Pakistan,FB,Canceled,274,Refundable,426.99,870.23
+BK1703,Resort Hotel,2024-12-04,8,Suite,4,Lebanon,No Meal,No Show,157,Refundable,477.76,2693.06
+BK1704,Resort Hotel,2024-12-05,11,Suite,1,Ethiopia,FB,No Show,255,Non Refundable,226.81,1409.43
+BK1705,City Hotel,2024-12-06,8,Family,4,Papua New Guinea,FB,Canceled,173,Refundable,177.78,4525.07
+BK1706,City Hotel,2024-12-07,11,Single,4,Papua New Guinea,HB,No Show,241,Non Refundable,308.89,3255.11
+BK1707,City Hotel,2024-12-08,15,Single,5,Tokelau,HB,Confirmed,193,Refundable,417.42,1088.79
+BK1708,City Hotel,2024-12-09,12,Double,1,Iraq,No Meal,Canceled,256,No Deposit,131.27,3613.48
+BK1709,City Hotel,2024-12-10,10,Single,1,Cocos (Keeling) Islands,HB,No Show,90,Refundable,384.47,4567.98
+BK1710,Resort Hotel,2024-12-11,10,Family,5,Greenland,No Meal,No Show,112,No Deposit,316.75,109.64
+BK1711,City Hotel,2024-12-12,5,Family,4,Vanuatu,HB,Confirmed,99,Refundable,276.25,3539.38
+BK1712,Resort Hotel,2024-12-13,6,Double,3,Mauritania,BB,Canceled,212,Non Refundable,166.2,1984.8
+BK1713,Resort Hotel,2024-12-14,4,Suite,3,Isle of Man,FB,Confirmed,158,No Deposit,150.82,3467.95
+BK1714,City Hotel,2024-12-15,7,Single,2,Malaysia,HB,Canceled,96,Non Refundable,148.65,4058.58
+BK1715,City Hotel,2024-12-16,12,Suite,4,Kyrgyz Republic,FB,Canceled,287,Non Refundable,268.09,4828.06
+BK1716,Resort Hotel,2024-12-17,4,Family,1,Myanmar,HB,No Show,170,Refundable,145.27,2001.53
+BK1717,City Hotel,2024-12-18,11,Single,1,Saint Pierre and Miquelon,BB,No Show,157,Non Refundable,495.99,2325.61
+BK1718,City Hotel,2024-12-19,9,Family,3,Benin,HB,Canceled,254,Refundable,437.63,4855.32
+BK1719,City Hotel,2024-12-20,8,Suite,1,Malta,HB,Canceled,227,No Deposit,398.83,3204.38
+BK1720,Resort Hotel,2024-12-21,5,Family,4,San Marino,No Meal,Canceled,61,No Deposit,223.01,1192.3
+BK1721,Resort Hotel,2024-12-22,1,Double,2,Bosnia and Herzegovina,No Meal,No Show,74,Non Refundable,178.49,1644.22
+BK1722,Resort Hotel,2024-12-23,8,Suite,1,Rwanda,BB,Canceled,13,Refundable,413.21,2378.75
+BK1723,City Hotel,2024-12-24,15,Family,4,Botswana,No Meal,No Show,215,No Deposit,342.04,4079.71
+BK1724,Resort Hotel,2024-12-25,11,Single,1,Djibouti,BB,Confirmed,7,No Deposit,191.17,1551.79
+BK1725,Resort Hotel,2024-12-26,12,Double,3,Georgia,BB,No Show,47,No Deposit,118.99,2867.62
+BK1726,City Hotel,2024-12-27,2,Family,4,Argentina,HB,Confirmed,91,Refundable,330.26,4733.94
+BK1727,Resort Hotel,2024-12-28,12,Suite,3,Senegal,BB,No Show,10,Refundable,366.26,1551.47
+BK1728,Resort Hotel,2024-12-29,14,Double,4,Central African Republic,FB,No Show,144,Non Refundable,327.4,4650.75
+BK1729,Resort Hotel,2024-12-30,7,Single,3,Spain,BB,Confirmed,162,Non Refundable,264.05,4362.09
+BK1730,City Hotel,2024-12-31,14,Single,5,Algeria,BB,Confirmed,49,No Deposit,183.43,4091.2
+BK1731,Resort Hotel,2025-01-01,13,Family,3,San Marino,No Meal,No Show,119,Refundable,370.6,3553.76
+BK1732,City Hotel,2025-01-02,11,Double,3,Belgium,No Meal,No Show,273,Non Refundable,401.5,3465.39
+BK1733,City Hotel,2025-01-03,8,Suite,4,Pitcairn Islands,HB,Confirmed,252,Non Refundable,366.66,4819.82
+BK1734,City Hotel,2025-01-04,14,Suite,1,Romania,HB,Canceled,85,Non Refundable,300.39,4314.3
+BK1735,Resort Hotel,2025-01-05,2,Suite,2,Guinea-Bissau,HB,Confirmed,77,No Deposit,279.7,1684.19
+BK1736,City Hotel,2025-01-06,15,Single,3,Ukraine,FB,Canceled,117,No Deposit,308.77,2342.38
+BK1737,Resort Hotel,2025-01-07,11,Double,4,Tunisia,BB,Confirmed,174,No Deposit,275.3,3796.72
+BK1738,City Hotel,2025-01-08,2,Suite,3,Algeria,HB,Canceled,168,Non Refundable,305.43,379.45
+BK1739,Resort Hotel,2025-01-09,9,Single,4,Sudan,BB,Canceled,179,Non Refundable,384.81,3689.45
+BK1740,Resort Hotel,2025-01-10,2,Double,2,French Southern Territories,BB,No Show,16,Refundable,179.24,3962.95
+BK1741,City Hotel,2025-01-11,9,Suite,1,Niger,FB,Confirmed,21,Non Refundable,139.29,3214.13
+BK1742,City Hotel,2025-01-12,2,Double,2,Falkland Islands (Malvinas),FB,No Show,174,Non Refundable,227.03,2435.16
+BK1743,City Hotel,2025-01-13,12,Suite,1,Djibouti,No Meal,Canceled,180,Refundable,384.89,4235.43
+BK1744,City Hotel,2025-01-14,8,Suite,3,British Virgin Islands,HB,Canceled,145,No Deposit,126.31,4286.13
+BK1745,City Hotel,2025-01-15,4,Double,4,Trinidad and Tobago,FB,Canceled,246,No Deposit,349.01,3304.68
+BK1746,Resort Hotel,2025-01-16,7,Suite,5,Ecuador,HB,Canceled,177,Refundable,496.2,2278.04
+BK1747,City Hotel,2025-01-17,13,Suite,1,Saint Kitts and Nevis,HB,No Show,75,No Deposit,148.48,4857.5
+BK1748,Resort Hotel,2025-01-18,9,Double,2,Bhutan,BB,Canceled,292,No Deposit,398.93,2576.27
+BK1749,City Hotel,2025-01-19,14,Single,1,Congo,BB,No Show,137,No Deposit,470.53,1773.51
+BK1750,Resort Hotel,2025-01-20,10,Single,5,Eritrea,FB,Confirmed,242,Non Refundable,461.51,3197.26
+BK1751,City Hotel,2025-01-21,15,Suite,1,Mayotte,No Meal,No Show,169,Non Refundable,169.3,4767.37
+BK1752,City Hotel,2025-01-22,7,Double,1,Norfolk Island,BB,Confirmed,219,Non Refundable,135.09,3664.24
+BK1753,Resort Hotel,2025-01-23,13,Single,1,Morocco,HB,No Show,298,Refundable,290.36,961.97
+BK1754,City Hotel,2025-01-24,10,Single,1,Turks and Caicos Islands,FB,Confirmed,291,Refundable,316.89,1998.69
+BK1755,Resort Hotel,2025-01-25,2,Single,4,Hungary,BB,No Show,205,Non Refundable,323.91,3539.62
+BK1756,Resort Hotel,2025-01-26,13,Single,5,Korea,FB,Canceled,177,No Deposit,286.33,176.54
+BK1757,Resort Hotel,2025-01-27,2,Suite,2,Denmark,FB,No Show,75,Refundable,381.39,2043.32
+BK1758,Resort Hotel,2025-01-28,2,Single,3,Monaco,BB,Canceled,124,Refundable,380.35,3567.43
+BK1759,Resort Hotel,2025-01-29,3,Family,2,Denmark,BB,No Show,128,Non Refundable,371.75,1636.41
+BK1760,City Hotel,2025-01-30,1,Double,5,Cote d'Ivoire,No Meal,No Show,230,Refundable,325.99,4450.15
+BK1761,Resort Hotel,2025-01-31,9,Single,1,Netherlands,FB,Confirmed,41,No Deposit,397.2,2790.6
+BK1762,City Hotel,2025-02-01,6,Family,4,Korea,No Meal,Canceled,271,No Deposit,100.3,2284.86
+BK1763,Resort Hotel,2025-02-02,3,Single,1,Liechtenstein,BB,Canceled,172,Refundable,281.76,2043.23
+BK1764,Resort Hotel,2025-02-03,9,Suite,2,Tuvalu,BB,Canceled,248,No Deposit,339.9,2343.74
+BK1765,City Hotel,2025-02-04,3,Single,4,Lesotho,No Meal,No Show,284,Non Refundable,451.53,723.52
+BK1766,Resort Hotel,2025-02-05,4,Single,1,Bosnia and Herzegovina,FB,Confirmed,208,No Deposit,169.78,4770.23
+BK1767,Resort Hotel,2025-02-06,3,Double,1,Azerbaijan,HB,No Show,145,No Deposit,389.06,1498.85
+BK1768,City Hotel,2025-02-07,5,Family,1,Tanzania,HB,No Show,120,Refundable,189.58,2384.61
+BK1769,City Hotel,2025-02-08,8,Suite,1,Seychelles,FB,Confirmed,285,Non Refundable,365.43,3149.77
+BK1770,Resort Hotel,2025-02-09,14,Double,3,Guadeloupe,No Meal,Confirmed,239,No Deposit,52.1,3837.72
+BK1771,City Hotel,2025-02-10,4,Double,1,Papua New Guinea,BB,Confirmed,139,No Deposit,361.9,3373.67
+BK1772,Resort Hotel,2025-02-11,9,Family,1,Mauritius,FB,No Show,114,Refundable,439.7,3521.23
+BK1773,City Hotel,2025-02-12,9,Single,2,Serbia,FB,Confirmed,236,Refundable,102.87,1348.62
+BK1774,Resort Hotel,2025-02-13,11,Single,2,Romania,No Meal,Canceled,158,Non Refundable,393.1,2703.65
+BK1775,Resort Hotel,2025-02-14,9,Double,2,Antarctica (the territory South of 60 deg S),BB,Confirmed,213,No Deposit,439.63,3544.3
+BK1776,City Hotel,2025-02-15,6,Single,5,Philippines,FB,Canceled,277,Refundable,416.09,4011.08
+BK1777,Resort Hotel,2025-02-16,8,Family,5,Ethiopia,BB,Confirmed,217,No Deposit,311.38,3126.47
+BK1778,City Hotel,2025-02-17,8,Single,1,Qatar,No Meal,No Show,24,Non Refundable,490.03,110.55
+BK1779,Resort Hotel,2025-02-18,12,Single,5,Netherlands,HB,No Show,42,No Deposit,337.29,2919.75
+BK1780,Resort Hotel,2025-02-19,14,Family,1,Egypt,BB,Confirmed,124,Non Refundable,141.79,4657.5
+BK1781,Resort Hotel,2025-02-20,7,Family,1,Peru,No Meal,Canceled,136,No Deposit,68.93,2067.72
+BK1782,City Hotel,2025-02-21,14,Single,2,Cape Verde,HB,No Show,264,Non Refundable,81.91,128.63
+BK1783,City Hotel,2025-02-22,5,Double,4,Cambodia,No Meal,No Show,119,Non Refundable,289.03,2414.54
+BK1784,City Hotel,2025-02-23,3,Single,3,Guyana,No Meal,Canceled,132,Non Refundable,260.04,1745.69
+BK1785,City Hotel,2025-02-24,10,Family,5,Brunei Darussalam,FB,No Show,219,Refundable,113.15,593.46
+BK1786,Resort Hotel,2025-02-25,6,Suite,4,Mauritania,FB,Confirmed,30,No Deposit,330.04,430.55
+BK1787,City Hotel,2025-02-26,14,Double,4,Netherlands,HB,No Show,231,Non Refundable,192.49,1826.18
+BK1788,City Hotel,2025-02-27,4,Suite,5,Chad,HB,No Show,230,No Deposit,70.44,3408.29
+BK1789,City Hotel,2025-02-28,6,Family,4,Russian Federation,BB,Confirmed,221,Non Refundable,98.46,527.99
+BK1790,Resort Hotel,2025-03-01,9,Suite,2,Mexico,FB,No Show,210,No Deposit,260.27,2484.83
+BK1791,Resort Hotel,2025-03-02,14,Double,3,Cocos (Keeling) Islands,FB,Canceled,144,No Deposit,452.02,3636.83
+BK1792,City Hotel,2025-03-03,11,Double,5,Korea,No Meal,No Show,279,No Deposit,289.24,2174.54
+BK1793,Resort Hotel,2025-03-04,7,Double,4,Benin,BB,No Show,19,No Deposit,186.79,1046.08
+BK1794,Resort Hotel,2025-03-05,2,Single,5,Slovenia,BB,Confirmed,219,No Deposit,316.03,2781.24
+BK1795,Resort Hotel,2025-03-06,14,Suite,3,San Marino,No Meal,Canceled,167,Non Refundable,368.42,4808.96
+BK1796,City Hotel,2025-03-07,3,Family,2,British Virgin Islands,No Meal,Confirmed,142,No Deposit,416.66,1588.47
+BK1797,Resort Hotel,2025-03-08,8,Double,5,Slovakia (Slovak Republic),No Meal,No Show,180,Non Refundable,320.21,723.8
+BK1798,Resort Hotel,2025-03-09,3,Family,4,Colombia,BB,Confirmed,273,Refundable,72.04,152.69
+BK1799,Resort Hotel,2025-03-10,4,Suite,3,Gambia,BB,Canceled,278,No Deposit,378.91,3340.24
+BK1800,City Hotel,2025-03-11,1,Double,1,Georgia,No Meal,Canceled,39,Non Refundable,477.03,382.69
+BK1801,City Hotel,2025-03-12,4,Single,2,Zimbabwe,BB,Canceled,60,Refundable,432.31,4205.02
+BK1802,Resort Hotel,2025-03-13,2,Family,4,New Caledonia,No Meal,Canceled,100,Refundable,361.84,2262.82
+BK1803,Resort Hotel,2025-03-14,2,Suite,3,Norfolk Island,HB,Confirmed,175,Refundable,491.59,4761.11
+BK1804,City Hotel,2025-03-15,14,Single,2,Northern Mariana Islands,HB,Confirmed,251,Refundable,115.22,4916.1
+BK1805,Resort Hotel,2025-03-16,7,Suite,4,Heard Island and McDonald Islands,No Meal,No Show,222,Refundable,396.26,1120.56
+BK1806,City Hotel,2025-03-17,4,Single,1,Burundi,No Meal,Confirmed,35,No Deposit,246.68,4634.11
+BK1807,City Hotel,2025-03-18,6,Family,4,Georgia,FB,Confirmed,195,Refundable,73.98,3034.57
+BK1808,Resort Hotel,2025-03-19,14,Suite,5,French Guiana,FB,Canceled,86,Refundable,403.54,498.86
+BK1809,City Hotel,2025-03-20,15,Suite,4,Eritrea,FB,Confirmed,252,Refundable,217.21,3081.59
+BK1810,City Hotel,2025-03-21,8,Single,4,Mauritius,FB,Canceled,169,Refundable,179.0,3399.77
+BK1811,Resort Hotel,2025-03-22,4,Double,1,Mozambique,FB,Canceled,237,No Deposit,216.45,3136.96
+BK1812,City Hotel,2025-03-23,7,Single,3,Haiti,HB,No Show,276,Refundable,412.1,2567.79
+BK1813,City Hotel,2025-03-24,7,Single,3,Saint Martin,HB,Canceled,64,Refundable,350.89,527.42
+BK1814,Resort Hotel,2025-03-25,14,Suite,5,Palau,No Meal,Confirmed,153,Non Refundable,282.65,1412.46
+BK1815,City Hotel,2025-03-26,13,Double,2,New Zealand,FB,Confirmed,267,Non Refundable,315.36,1495.92
+BK1816,City Hotel,2025-03-27,11,Family,3,Haiti,BB,Confirmed,22,Refundable,304.02,4827.68
+BK1817,Resort Hotel,2025-03-28,5,Family,4,Congo,HB,Confirmed,268,Non Refundable,402.21,2659.22
+BK1818,City Hotel,2025-03-29,6,Suite,3,Peru,HB,Canceled,143,No Deposit,230.47,261.89
+BK1819,Resort Hotel,2025-03-30,12,Suite,2,Zambia,BB,Confirmed,62,No Deposit,305.52,991.34
+BK1820,Resort Hotel,2025-03-31,6,Single,3,Tonga,HB,No Show,251,No Deposit,133.58,538.14
+BK1821,Resort Hotel,2025-04-01,3,Suite,1,Rwanda,No Meal,Confirmed,37,Refundable,409.79,2703.74
+BK1822,Resort Hotel,2025-04-02,4,Suite,5,Cameroon,FB,Confirmed,64,Refundable,352.8,4901.79
+BK1823,Resort Hotel,2025-04-03,15,Suite,4,San Marino,FB,Confirmed,113,No Deposit,496.21,1638.42
+BK1824,City Hotel,2025-04-04,9,Family,5,Bosnia and Herzegovina,HB,Canceled,210,Refundable,358.29,1621.96
+BK1825,City Hotel,2025-04-05,9,Suite,4,Greece,No Meal,Confirmed,227,No Deposit,447.19,390.25
+BK1826,Resort Hotel,2025-04-06,2,Family,4,Thailand,HB,No Show,283,No Deposit,471.63,3963.29
+BK1827,Resort Hotel,2025-04-07,10,Single,2,Reunion,BB,No Show,174,Refundable,70.86,3688.83
+BK1828,Resort Hotel,2025-04-08,7,Single,4,Congo,HB,No Show,140,Refundable,278.51,4780.57
+BK1829,City Hotel,2025-04-09,3,Single,3,Spain,FB,No Show,159,Non Refundable,488.89,1824.99
+BK1830,City Hotel,2025-04-10,5,Family,2,Macedonia,FB,Confirmed,84,Refundable,258.84,1069.81
+BK1831,City Hotel,2025-04-11,1,Double,5,Sierra Leone,HB,Confirmed,174,Non Refundable,67.08,2969.2
+BK1832,Resort Hotel,2025-04-12,6,Double,2,Colombia,HB,Canceled,289,Non Refundable,158.26,1508.32
+BK1833,Resort Hotel,2025-04-13,10,Family,1,Guadeloupe,No Meal,No Show,101,Non Refundable,152.79,3619.62
+BK1834,City Hotel,2025-04-14,1,Double,4,Mozambique,HB,Canceled,292,Non Refundable,96.14,2171.11
+BK1835,Resort Hotel,2025-04-15,1,Double,5,Cape Verde,FB,Confirmed,247,No Deposit,204.05,2179.96
+BK1836,City Hotel,2025-04-16,5,Suite,2,Lebanon,HB,Confirmed,264,Non Refundable,316.05,2229.98
+BK1837,City Hotel,2025-04-17,12,Single,5,Saint Lucia,FB,No Show,284,Refundable,149.35,871.79
+BK1838,City Hotel,2025-04-18,12,Family,1,Djibouti,BB,No Show,93,No Deposit,316.23,2565.45
+BK1839,Resort Hotel,2025-04-19,9,Suite,4,Mali,BB,No Show,255,Refundable,372.29,1383.91
+BK1840,Resort Hotel,2025-04-20,15,Suite,4,Samoa,FB,Confirmed,13,Refundable,217.13,598.13
+BK1841,Resort Hotel,2025-04-21,9,Family,5,Algeria,BB,Confirmed,1,No Deposit,471.92,2541.96
+BK1842,Resort Hotel,2025-04-22,12,Family,5,Serbia,BB,Canceled,53,Refundable,207.04,4793.45
+BK1843,City Hotel,2025-04-23,8,Double,5,United Arab Emirates,BB,Canceled,280,No Deposit,307.23,4123.47
+BK1844,City Hotel,2025-04-24,3,Family,4,Lesotho,BB,Confirmed,61,Refundable,368.97,2880.59
+BK1845,Resort Hotel,2025-04-25,6,Single,5,Malawi,BB,No Show,158,Non Refundable,104.74,3418.43
+BK1846,City Hotel,2025-04-26,6,Family,5,Guernsey,No Meal,Confirmed,238,Refundable,164.58,4076.7
+BK1847,Resort Hotel,2025-04-27,14,Double,2,Malaysia,BB,Canceled,49,Refundable,445.0,1287.17
+BK1848,City Hotel,2025-04-28,5,Suite,2,Greece,BB,Confirmed,76,No Deposit,366.63,4631.09
+BK1849,Resort Hotel,2025-04-29,2,Double,3,Antarctica (the territory South of 60 deg S),No Meal,Confirmed,72,Refundable,173.9,4812.34
+BK1850,City Hotel,2025-04-30,14,Family,2,United Arab Emirates,FB,Canceled,134,Non Refundable,179.01,539.14
+BK1851,Resort Hotel,2025-05-01,14,Single,4,Western Sahara,HB,No Show,300,No Deposit,361.26,1953.48
+BK1852,City Hotel,2025-05-02,4,Single,3,Maldives,HB,No Show,269,Refundable,221.79,2249.71
+BK1853,City Hotel,2025-05-03,5,Single,4,Namibia,FB,Confirmed,114,Refundable,59.36,4831.36
+BK1854,City Hotel,2025-05-04,5,Single,5,Nigeria,FB,Confirmed,25,No Deposit,364.59,4417.53
+BK1855,City Hotel,2025-05-05,3,Double,3,Argentina,BB,No Show,252,Refundable,428.86,1358.4
+BK1856,Resort Hotel,2025-05-06,15,Single,5,Algeria,HB,Confirmed,166,Non Refundable,294.93,2729.14
+BK1857,City Hotel,2025-05-07,2,Single,3,Saint Vincent and the Grenadines,HB,Canceled,206,Non Refundable,415.69,4310.05
+BK1858,City Hotel,2025-05-08,1,Suite,3,Martinique,HB,No Show,34,Refundable,451.58,2932.77
+BK1859,Resort Hotel,2025-05-09,7,Single,4,Micronesia,HB,Canceled,293,No Deposit,173.64,151.8
+BK1860,Resort Hotel,2025-05-10,3,Single,2,British Virgin Islands,HB,Canceled,251,Refundable,326.77,879.8
+BK1861,Resort Hotel,2025-05-11,14,Family,2,Costa Rica,BB,Confirmed,206,Non Refundable,177.76,3035.25
+BK1862,City Hotel,2025-05-12,9,Double,4,Saint Pierre and Miquelon,FB,No Show,238,No Deposit,416.74,480.68
+BK1863,City Hotel,2025-05-13,13,Family,2,Barbados,FB,Confirmed,88,Refundable,465.59,587.79
+BK1864,Resort Hotel,2025-05-14,8,Double,5,Antarctica (the territory South of 60 deg S),FB,Confirmed,7,Refundable,182.07,4874.58
+BK1865,City Hotel,2025-05-15,3,Suite,2,Hungary,No Meal,No Show,10,Refundable,311.81,4087.57
+BK1866,City Hotel,2025-05-16,7,Suite,1,Macao,HB,Confirmed,110,No Deposit,120.16,4488.56
+BK1867,City Hotel,2025-05-17,4,Double,3,Switzerland,BB,Confirmed,143,No Deposit,347.99,4998.84
+BK1868,Resort Hotel,2025-05-18,3,Family,4,Dominica,No Meal,Canceled,200,Refundable,418.87,3774.6
+BK1869,City Hotel,2025-05-19,1,Double,4,Suriname,BB,Confirmed,210,No Deposit,350.48,939.08
+BK1870,Resort Hotel,2025-05-20,10,Family,4,Uruguay,FB,Canceled,217,No Deposit,311.11,2738.2
+BK1871,City Hotel,2025-05-21,7,Single,3,Bangladesh,No Meal,Canceled,224,Refundable,117.21,762.83
+BK1872,Resort Hotel,2025-05-22,7,Suite,4,Chile,BB,Confirmed,249,Refundable,311.11,3491.61
+BK1873,City Hotel,2025-05-23,14,Double,1,Cyprus,FB,No Show,241,Refundable,299.91,3393.4
+BK1874,Resort Hotel,2025-05-24,15,Double,4,Tajikistan,BB,Confirmed,204,Refundable,132.93,2763.74
+BK1875,City Hotel,2025-05-25,12,Suite,1,India,HB,Canceled,297,No Deposit,68.88,449.1
+BK1876,Resort Hotel,2025-05-26,4,Double,3,Trinidad and Tobago,FB,Confirmed,99,Non Refundable,477.89,4043.52
+BK1877,Resort Hotel,2025-05-27,14,Family,4,Macedonia,No Meal,Confirmed,267,No Deposit,358.0,3678.74
+BK1878,Resort Hotel,2025-05-28,5,Double,1,Philippines,FB,Confirmed,234,No Deposit,185.23,2285.92
+BK1879,Resort Hotel,2025-05-29,7,Single,1,Israel,FB,Canceled,19,No Deposit,393.1,3867.02
+BK1880,City Hotel,2025-05-30,1,Family,3,Samoa,FB,No Show,1,Refundable,421.73,2625.72
+BK1881,Resort Hotel,2025-05-31,5,Single,1,Myanmar,HB,No Show,240,Refundable,491.17,2018.92
+BK1882,Resort Hotel,2025-06-01,8,Suite,3,Timor-Leste,BB,Canceled,257,Refundable,387.45,759.96
+BK1883,City Hotel,2025-06-02,1,Family,2,Guyana,No Meal,No Show,230,Non Refundable,236.71,958.49
+BK1884,Resort Hotel,2025-06-03,14,Single,4,Eritrea,FB,Canceled,254,Refundable,61.29,4423.88
+BK1885,City Hotel,2025-06-04,2,Double,3,Bouvet Island (Bouvetoya),BB,Confirmed,171,No Deposit,411.23,3031.43
+BK1886,City Hotel,2025-06-05,5,Family,1,Saint Kitts and Nevis,HB,No Show,153,Refundable,232.54,935.75
+BK1887,Resort Hotel,2025-06-06,8,Single,2,Australia,FB,Canceled,67,No Deposit,260.47,2133.07
+BK1888,Resort Hotel,2025-06-07,14,Double,2,Cambodia,HB,Canceled,209,Refundable,458.07,3164.92
+BK1889,Resort Hotel,2025-06-08,3,Single,1,Japan,No Meal,Confirmed,32,No Deposit,309.64,201.81
+BK1890,City Hotel,2025-06-09,15,Double,2,Wallis and Futuna,BB,Confirmed,276,Refundable,265.62,2546.26
+BK1891,City Hotel,2025-06-10,14,Single,2,Mongolia,FB,Confirmed,105,No Deposit,185.69,1758.75
+BK1892,Resort Hotel,2025-06-11,6,Single,3,Seychelles,No Meal,No Show,147,Refundable,420.55,2200.08
+BK1893,Resort Hotel,2025-06-12,14,Suite,3,Algeria,BB,No Show,287,Non Refundable,111.36,1325.28
+BK1894,City Hotel,2025-06-13,7,Single,4,Luxembourg,No Meal,No Show,245,No Deposit,261.17,4058.36
+BK1895,Resort Hotel,2025-06-14,10,Suite,1,Greenland,HB,Confirmed,199,Non Refundable,70.2,597.03
+BK1896,City Hotel,2025-06-15,11,Double,2,Peru,No Meal,Canceled,290,Non Refundable,299.85,2492.27
+BK1897,City Hotel,2025-06-16,4,Suite,2,Zambia,HB,Canceled,32,Refundable,260.4,3804.49
+BK1898,Resort Hotel,2025-06-17,6,Suite,4,Austria,HB,No Show,200,Refundable,259.31,4515.97
+BK1899,Resort Hotel,2025-06-18,3,Single,2,Angola,HB,Confirmed,278,Non Refundable,342.58,2189.74
+BK1900,City Hotel,2025-06-19,12,Suite,1,Brazil,HB,Confirmed,3,Non Refundable,392.97,1006.38
+BK1901,City Hotel,2025-06-20,14,Double,1,Chile,BB,No Show,29,Non Refundable,305.62,242.74
+BK1902,Resort Hotel,2025-06-21,3,Double,5,Indonesia,No Meal,Confirmed,105,No Deposit,159.16,2700.83
+BK1903,Resort Hotel,2025-06-22,6,Double,5,Ghana,HB,Confirmed,257,Refundable,406.92,4121.23
+BK1904,City Hotel,2025-06-23,2,Suite,3,Nauru,No Meal,Canceled,234,No Deposit,261.39,1488.57
+BK1905,Resort Hotel,2025-06-24,14,Suite,3,Syrian Arab Republic,HB,No Show,93,No Deposit,64.96,3913.31
+BK1906,Resort Hotel,2025-06-25,14,Single,2,Brazil,No Meal,Canceled,201,Non Refundable,266.89,837.71
+BK1907,Resort Hotel,2025-06-26,11,Double,4,Hong Kong,No Meal,Canceled,6,Non Refundable,470.56,1772.03
+BK1908,City Hotel,2025-06-27,4,Single,5,San Marino,BB,No Show,211,No Deposit,363.42,3344.57
+BK1909,Resort Hotel,2025-06-28,4,Family,2,New Zealand,No Meal,Canceled,238,No Deposit,392.72,682.54
+BK1910,City Hotel,2025-06-29,14,Single,1,Chad,FB,No Show,231,No Deposit,236.61,2260.32
+BK1911,Resort Hotel,2025-06-30,1,Family,4,Afghanistan,No Meal,Canceled,267,Refundable,89.0,3957.08
+BK1912,City Hotel,2025-07-01,11,Double,2,Myanmar,BB,Canceled,228,No Deposit,235.4,255.05
+BK1913,Resort Hotel,2025-07-02,5,Single,1,Korea,HB,No Show,175,Non Refundable,457.1,285.04
+BK1914,Resort Hotel,2025-07-03,1,Single,1,Papua New Guinea,FB,No Show,118,Non Refundable,429.86,4163.96
+BK1915,Resort Hotel,2025-07-04,12,Suite,2,Belarus,FB,No Show,75,Refundable,491.23,2153.68
+BK1916,Resort Hotel,2025-07-05,8,Suite,1,Burundi,FB,Canceled,228,Refundable,474.6,2931.03
+BK1917,City Hotel,2025-07-06,12,Suite,3,Montenegro,FB,Canceled,217,Refundable,474.34,3273.52
+BK1918,Resort Hotel,2025-07-07,4,Double,4,Monaco,BB,Confirmed,121,No Deposit,327.57,2541.94
+BK1919,Resort Hotel,2025-07-08,3,Double,1,Montserrat,HB,No Show,145,Refundable,121.46,721.0
+BK1920,City Hotel,2025-07-09,9,Double,5,Barbados,No Meal,Canceled,217,Refundable,311.14,4357.87
+BK1921,Resort Hotel,2025-07-10,2,Family,2,Singapore,BB,Canceled,105,No Deposit,237.98,220.2
+BK1922,Resort Hotel,2025-07-11,13,Suite,5,Slovakia (Slovak Republic),FB,Confirmed,85,No Deposit,198.92,3240.12
+BK1923,Resort Hotel,2025-07-12,14,Double,3,Puerto Rico,FB,Confirmed,279,Refundable,225.24,4223.78
+BK1924,City Hotel,2025-07-13,11,Suite,1,Syrian Arab Republic,BB,No Show,153,Refundable,443.7,2606.98
+BK1925,Resort Hotel,2025-07-14,3,Suite,5,Italy,BB,No Show,247,Refundable,329.72,679.61
+BK1926,Resort Hotel,2025-07-15,1,Single,3,Liechtenstein,FB,Canceled,52,Refundable,118.54,3641.48
+BK1927,Resort Hotel,2025-07-16,7,Single,4,Cameroon,HB,Canceled,23,No Deposit,195.25,3511.09
+BK1928,City Hotel,2025-07-17,7,Family,5,Bulgaria,BB,Confirmed,265,No Deposit,83.96,2095.5
+BK1929,Resort Hotel,2025-07-18,8,Single,3,Western Sahara,BB,Confirmed,172,Non Refundable,428.64,4336.48
+BK1930,City Hotel,2025-07-19,7,Suite,4,Brazil,BB,No Show,47,No Deposit,387.42,1979.29
+BK1931,City Hotel,2025-07-20,12,Suite,4,Korea,HB,No Show,236,No Deposit,132.69,3594.35
+BK1932,Resort Hotel,2025-07-21,14,Single,3,Palau,No Meal,No Show,19,No Deposit,385.7,589.27
+BK1933,City Hotel,2025-07-22,12,Single,3,Pakistan,HB,Confirmed,273,No Deposit,51.01,3111.16
+BK1934,City Hotel,2025-07-23,14,Suite,3,Lao People's Democratic Republic,No Meal,No Show,177,Refundable,228.65,600.97
+BK1935,Resort Hotel,2025-07-24,7,Suite,1,Denmark,HB,Confirmed,149,Non Refundable,244.22,2802.39
+BK1936,City Hotel,2025-07-25,12,Suite,1,Belgium,FB,Confirmed,12,No Deposit,488.9,4999.22
+BK1937,Resort Hotel,2025-07-26,3,Suite,2,Suriname,HB,No Show,34,No Deposit,167.91,4024.92
+BK1938,City Hotel,2025-07-27,11,Suite,2,Chad,No Meal,Canceled,5,Refundable,170.06,3143.77
+BK1939,City Hotel,2025-07-28,9,Single,1,Palestinian Territory,No Meal,No Show,51,No Deposit,234.04,2095.59
+BK1940,City Hotel,2025-07-29,1,Single,3,Isle of Man,FB,No Show,222,Refundable,156.48,4809.65
+BK1941,City Hotel,2025-07-30,13,Suite,1,Switzerland,HB,Canceled,296,Non Refundable,375.44,2466.48
+BK1942,City Hotel,2025-07-31,11,Single,3,Cambodia,BB,Canceled,48,Refundable,122.6,1646.58
+BK1943,Resort Hotel,2025-08-01,8,Family,4,Ecuador,BB,No Show,201,Non Refundable,108.01,2257.06
+BK1944,City Hotel,2025-08-02,3,Single,3,Honduras,HB,Confirmed,53,Non Refundable,380.58,1376.77
+BK1945,Resort Hotel,2025-08-03,7,Suite,3,Saint Pierre and Miquelon,No Meal,Canceled,116,Non Refundable,253.66,571.09
+BK1946,Resort Hotel,2025-08-04,6,Family,4,Sao Tome and Principe,HB,Confirmed,42,No Deposit,382.23,3267.59
+BK1947,City Hotel,2025-08-05,5,Double,2,Brazil,No Meal,Canceled,22,Non Refundable,116.78,4279.78
+BK1948,City Hotel,2025-08-06,1,Suite,4,Fiji,BB,No Show,41,Non Refundable,293.39,3012.11
+BK1949,Resort Hotel,2025-08-07,13,Suite,5,Bhutan,No Meal,Canceled,201,Refundable,51.6,4360.18
+BK1950,Resort Hotel,2025-08-08,11,Single,2,Jamaica,FB,No Show,40,No Deposit,227.84,2804.54
+BK1951,Resort Hotel,2025-08-09,8,Double,1,Ethiopia,HB,Confirmed,114,Refundable,333.08,4883.77
+BK1952,City Hotel,2025-08-10,15,Family,2,Isle of Man,No Meal,Confirmed,240,Refundable,215.0,1756.13
+BK1953,Resort Hotel,2025-08-11,15,Family,1,Falkland Islands (Malvinas),No Meal,Canceled,276,No Deposit,401.95,3015.73
+BK1954,City Hotel,2025-08-12,5,Suite,4,Mayotte,BB,Canceled,12,Non Refundable,478.28,3573.86
+BK1955,City Hotel,2025-08-13,11,Single,5,Kazakhstan,HB,No Show,36,No Deposit,312.09,543.48
+BK1956,City Hotel,2025-08-14,10,Suite,4,Aruba,HB,Canceled,123,Refundable,315.88,4517.63
+BK1957,City Hotel,2025-08-15,5,Suite,5,Azerbaijan,No Meal,No Show,145,Refundable,196.98,788.02
+BK1958,City Hotel,2025-08-16,4,Family,3,Hungary,No Meal,Canceled,64,Non Refundable,91.91,4530.48
+BK1959,City Hotel,2025-08-17,2,Family,4,Botswana,No Meal,Canceled,253,Refundable,371.46,999.02
+BK1960,Resort Hotel,2025-08-18,6,Family,1,Sudan,No Meal,Canceled,155,Refundable,356.56,589.4
+BK1961,Resort Hotel,2025-08-19,14,Family,3,Turkey,FB,No Show,13,No Deposit,142.65,1587.57
+BK1962,City Hotel,2025-08-20,4,Suite,5,Korea,HB,Canceled,192,No Deposit,309.13,623.13
+BK1963,City Hotel,2025-08-21,10,Suite,4,Paraguay,No Meal,No Show,160,Non Refundable,245.68,4059.55
+BK1964,Resort Hotel,2025-08-22,6,Double,5,Spain,No Meal,No Show,196,No Deposit,161.27,4113.0
+BK1965,Resort Hotel,2025-08-23,2,Single,2,Pakistan,No Meal,Confirmed,95,No Deposit,278.95,4288.89
+BK1966,Resort Hotel,2025-08-24,13,Family,3,Romania,FB,Canceled,224,Non Refundable,484.78,292.68
+BK1967,Resort Hotel,2025-08-25,13,Family,1,Zambia,BB,No Show,222,Refundable,272.96,133.24
+BK1968,Resort Hotel,2025-08-26,15,Suite,4,Azerbaijan,HB,No Show,179,Non Refundable,245.2,2047.49
+BK1969,Resort Hotel,2025-08-27,11,Suite,3,United States Virgin Islands,FB,No Show,66,Non Refundable,407.59,1063.63
+BK1970,Resort Hotel,2025-08-28,5,Single,1,Iran,No Meal,Confirmed,48,Refundable,469.98,3684.96
+BK1971,Resort Hotel,2025-08-29,15,Double,2,Chad,FB,Canceled,195,No Deposit,152.81,1079.86
+BK1972,Resort Hotel,2025-08-30,12,Single,2,Angola,No Meal,No Show,265,Non Refundable,389.72,2983.03
+BK1973,Resort Hotel,2025-08-31,9,Suite,3,Lithuania,FB,Confirmed,134,Non Refundable,486.07,519.29
+BK1974,City Hotel,2025-09-01,2,Single,5,Gibraltar,FB,No Show,89,Refundable,307.14,2471.37
+BK1975,Resort Hotel,2025-09-02,4,Single,4,Eritrea,FB,No Show,191,No Deposit,96.52,3544.99
+BK1976,Resort Hotel,2025-09-03,7,Double,1,Isle of Man,BB,Confirmed,105,Non Refundable,106.61,2615.67
+BK1977,Resort Hotel,2025-09-04,4,Suite,5,Mozambique,FB,Confirmed,150,Refundable,218.37,506.63
+BK1978,City Hotel,2025-09-05,7,Suite,3,Gambia,FB,Canceled,214,No Deposit,194.72,973.29
+BK1979,City Hotel,2025-09-06,1,Family,1,Angola,No Meal,Confirmed,119,Refundable,103.43,3300.35
+BK1980,Resort Hotel,2025-09-07,14,Double,2,Guadeloupe,HB,No Show,197,Refundable,134.94,807.64
+BK1981,City Hotel,2025-09-08,13,Family,1,Tanzania,HB,No Show,54,Refundable,85.1,3449.42
+BK1982,City Hotel,2025-09-09,7,Single,3,Senegal,FB,Canceled,157,Non Refundable,80.85,4145.67
+BK1983,City Hotel,2025-09-10,12,Suite,3,Luxembourg,FB,No Show,118,Refundable,205.79,2471.36
+BK1984,Resort Hotel,2025-09-11,1,Double,4,Germany,BB,Confirmed,70,Refundable,352.3,2701.04
+BK1985,Resort Hotel,2025-09-12,15,Double,3,Sierra Leone,HB,Confirmed,28,Refundable,270.29,4450.96
+BK1986,Resort Hotel,2025-09-13,1,Double,3,Greenland,BB,Canceled,2,Refundable,221.15,4006.95
+BK1987,City Hotel,2025-09-14,7,Double,3,Colombia,HB,No Show,156,No Deposit,327.56,2778.23
+BK1988,City Hotel,2025-09-15,13,Single,1,Dominica,FB,Canceled,116,Non Refundable,405.11,4962.53
+BK1989,City Hotel,2025-09-16,9,Single,4,Tokelau,FB,Canceled,283,Non Refundable,428.74,4756.7
+BK1990,City Hotel,2025-09-17,1,Single,1,Cuba,HB,Confirmed,60,Non Refundable,404.94,2691.64
+BK1991,Resort Hotel,2025-09-18,15,Double,1,Ukraine,No Meal,Canceled,278,Refundable,401.72,2263.16
+BK1992,City Hotel,2025-09-19,12,Double,4,France,HB,Confirmed,181,No Deposit,300.96,758.05
+BK1993,Resort Hotel,2025-09-20,10,Suite,1,Papua New Guinea,No Meal,No Show,297,No Deposit,362.1,544.17
+BK1994,Resort Hotel,2025-09-21,11,Suite,1,Suriname,HB,Confirmed,275,Non Refundable,152.98,3686.3
+BK1995,Resort Hotel,2025-09-22,3,Family,2,Mozambique,No Meal,Canceled,27,No Deposit,409.74,3624.12
+BK1996,City Hotel,2025-09-23,10,Suite,4,Iceland,HB,Canceled,68,Non Refundable,274.81,1265.03
+BK1997,Resort Hotel,2025-09-24,7,Family,2,Iraq,BB,Confirmed,108,No Deposit,384.91,4946.71
+BK1998,City Hotel,2025-09-25,13,Double,3,Cuba,HB,Canceled,172,No Deposit,243.64,4799.25
+BK1999,Resort Hotel,2025-09-26,13,Family,2,Saint Kitts and Nevis,No Meal,No Show,178,Non Refundable,247.0,269.14
